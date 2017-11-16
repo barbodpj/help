@@ -7,5 +7,6 @@ int main()
     printf("salam\n");
     printf("chetori");
     printf ("%d",12);
+    printf ("%d",12);
     return 0;
 }
