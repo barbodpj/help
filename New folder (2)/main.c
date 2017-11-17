@@ -10,5 +10,6 @@ int main()
     printf ("%d",12);
     printf ("%d",12);
     printf ("%d",12);
+    printf("jome");
     return 0;
 }
