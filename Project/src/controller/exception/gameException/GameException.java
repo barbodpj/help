@@ -1,11 +1,11 @@
 package controller.exception.gameException;
 
+//TODO mvc
 public class GameException extends Exception{
-
 	protected String message;
 
-	public String printAnnouncement() {
-		return message;
+	public void printAnnouncement() {
+		System.out.println(message);
 	}
 
 }

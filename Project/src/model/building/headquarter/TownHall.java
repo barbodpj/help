@@ -3,7 +3,6 @@ package model.building.headquarter;
 import comparator.BuildingTypeComparator;
 import constants.Constants;
 import constants.enums.BuildingType;
-import controller.exception.gameException.BusyBuildersException;
 import model.Location;
 import model.Village;
 import model.building.*;
