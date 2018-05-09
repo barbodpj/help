@@ -386,6 +386,12 @@ public class VillageController {
         }
     }
 
+    public void handleChooseTarget() {
 
+    }
+
+    public void handleAttackInfo() {
+        view.println(((DefenceBuilding)model.getBuilding(menuController.getBuildingType(), menuController.getBuildingNumber())).getAttackInfo());
+    }
 
 }

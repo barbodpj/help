@@ -172,7 +172,7 @@ public class Main {
                                     controller.getVillageController().handleOverallInfo();
                                     break;
                                 case 2:
-                                    controller.getVillageController().
+
                                     break;
                                 case 3:
                                     controller.handleMenuBack();
@@ -182,12 +182,16 @@ public class Main {
                         case DefenceTowerInfo:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleOverallInfo();
                                     break;
                                 case 2:
+                                    controller.getVillageController().handleUpgrade();
                                     break;
                                 case 3:
+                                    controller.getVillageController().handleAttackInfo();
                                     break;
                                 case 4:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
