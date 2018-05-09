@@ -1,6 +1,6 @@
 package view;
 
-import com.google.gson.Gson;
+
 import constants.enums.BuildingType;
 import constants.enums.Section;
 import constants.enums.TroopType;
@@ -24,11 +24,6 @@ public class View {
         this.menuController = menuController;
         villageView = new VillageView();
         attackView = new AttackView();
-
-        Gson gson = new Gson();
-        String jsonString = gson.toJson(attackView);
-
-        View view = gson.fromJson(jsonString, View.class);
     }
 
     public void printOutput(ArrayList<String> output) {

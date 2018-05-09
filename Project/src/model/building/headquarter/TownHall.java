@@ -6,6 +6,7 @@ import constants.enums.BuildingType;
 import model.Location;
 import model.Village;
 import model.building.*;
+import controller.exception.gameException.*;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -55,7 +56,7 @@ public class TownHall extends Building {
 	}
 
 	public TownHall(Location location, Village village) {
-		super(location);
+		super(location, village);
 		this.village = village;
 		Builder builder = new Builder(village);
 		builders.add(builder);
@@ -80,12 +81,6 @@ public class TownHall extends Building {
 		for(Builder builder: builders) {
 			builder.decreaseRemainingTime();
 		}
-	}
-
-	@Override
-	public String ShowUpgradeInfo() {
-		String output = "Upgrade Cost: 500 golds";
-		return output;
 	}
 
 

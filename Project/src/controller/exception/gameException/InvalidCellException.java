@@ -1,10 +1,9 @@
 package controller.exception.gameException;
 
-public class 	InvalidCellException extends GameException {
+public class InvalidCellException extends GameException {
 
 	public InvalidCellException() {
-		// TODO - implement InvalidCellException.InvalidCellException
-		throw new UnsupportedOperationException();
+		super.message = "You can’t build this building here.Please choose another cell.";
 	}
 
 }

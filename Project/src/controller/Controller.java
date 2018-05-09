@@ -1,6 +1,6 @@
 package controller;
 
-import com.google.gson.Gson;
+import com.gilecode.yagson.YaGson;
 import controller.exception.InvalidCommandException;
 import model.*;
 import view.*;
@@ -22,8 +22,10 @@ public class Controller {
         this.menuController = menuController;
     }
 
-    public void readConstants() {
-        ArrayList<String> input = view.fileReader()
+    public void readConstants() throws FileNotFoundException {
+        ArrayList<String> input = view.fileReader("Config.txt");
+
+
     }
 
     public void start() {
@@ -54,8 +56,8 @@ public class Controller {
     private void save(String filePath) {
         try {
             FileWriter fileWriter = new FileWriter(filePath);
-            Gson gson = new Gson();
-            String jsonString = gson.toJson(model);
+            YaGson yaGson = new YaGson();
+            String jsonString = yaGson.toJson(model);
             fileWriter.write(jsonString);
             fileWriter.close();
 
@@ -69,8 +71,8 @@ public class Controller {
         try {
             Scanner scanner = new Scanner(new FileReader(filePath));
             String jsonString = scanner.nextLine();
-            Gson gson = new Gson();
-            return gson.fromJson(jsonString, Village.class);
+            YaGson yaGson = new YaGson();
+            return yaGson.fromJson(jsonString, Village.class);
         } catch (FileNotFoundException e) {
             view.println("File not found");
             return null;

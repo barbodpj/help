@@ -34,7 +34,7 @@ public abstract class DefenceBuilding extends Building implements Attacker {
 
 	@Override
 	public int getDamage() {
-
+		return 0;
 	}
 
 	public DefenceBuilding(Location location, Village village) {
