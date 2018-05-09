@@ -1,5 +1,7 @@
 package model.building.troopPreparation;
 
+import model.Location;
+import model.Village;
 import model.building.*;
 import constants.enums.*;
 import model.troop.*;
@@ -61,4 +63,7 @@ public class Camp extends Building {
 		return answer;
 	}
 
+	public Camp(Location location, Village village) {
+		super(location, village);
+	}
 }

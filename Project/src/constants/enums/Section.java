@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public enum Section {
     Attack("attack"),
     Village("village"),
-    TownHall("Town Hall"),
+    TownHall("Town hall"),
     TownHallInfo("Info"),
     AvailableBuildings("Available buildings"),
     Barracks("Barracks"),

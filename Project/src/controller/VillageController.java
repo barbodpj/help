@@ -1,21 +1,25 @@
 package controller;
 
+import constants.Constants;
 import constants.enums.BuildingType;
 import constants.enums.Section;
 import constants.enums.TroopType;
 import controller.exception.InvalidCommandException;
+import controller.exception.gameException.BusyBuildersException;
 import controller.exception.gameException.LevelBoundaryException;
 import controller.exception.gameException.LowResourcesException;
+import model.Location;
 import model.Village;
 import model.building.Building;
+import model.building.headquarter.Builder;
 import model.building.headquarter.TownHall;
 import model.building.resource.GoldMine;
 import view.View;
 
 public class VillageController {
-    Village model;
-    View view;
-    MenuController menuController;
+    private Village model;
+    private View view;
+    private MenuController menuController;
 
     public VillageController(Village model, View view, MenuController menuController) {
         this.model = model;
@@ -104,23 +108,6 @@ public class VillageController {
         }
     }
 
-    public void handleMenuBack() {
-        view.println(menuController.back());
-    }
-
-    public void handleShowMenu() {
-        view.println(menuController.showMenu());
-    }
-
-    public void handleWhereAmI() {
-        if(menuController.getBuildingType() == null) {
-            view.println(menuController.getCurrentSection().getValue());
-        }
-        else {
-            view.println(menuController.getBuildingType().getValue() + " " + menuController.getBuildingNumber());
-        }
-    }
-
     public void handleInfo() {
         view.println(menuController.changeSection(menuController.getCurrentSection().getSubdivisions().get(0)));
     }
@@ -140,9 +127,56 @@ public class VillageController {
     }
 
     public void handleConstructBuilding(int number) {
+        if(number == menuController.getCurrentSection().getDynamicValidCommands().size() + 1) {
+            view.println(menuController.back());
+            return;
+        }
+        Location location = null;
+        Builder builder = null;
+        try {
+            builder = ((TownHall)model.getBuilding(BuildingType.TownHall, 1)).callBuilder();
+            view.println("Do you want to build " + menuController.getCurrentSection().getDynamicValidCommands().get(number - 1) + " for " + Constants.buildingBuildCost.get(BuildingType.valueOf(menuController.getCurrentSection().getDynamicValidCommands().get(number - 1))).getGold() + " golds and " + Constants.buildingBuildCost.get(BuildingType.valueOf(menuController.getCurrentSection().getDynamicValidCommands().get(number - 1))).getElixir() + " elixirs? [Y/N]");
+            outer:
+            while (true) {
+                try {
+                    if(view.getVillageView().yesNoQuestion().matches("Y")) {
+                        model.useResources(Constants.buildingBuildCost.get(BuildingType.valueOf(menuController.getCurrentSection().getDynamicValidCommands().get(number - 1))).getGold(), Constants.buildingBuildCost.get(BuildingType.valueOf(menuController.getCurrentSection().getDynamicValidCommands().get(number - 1))).getElixir());
+                        view.println(model.getMap().getBooleanMap());
+                        view.println("Where do you want to build " + menuController.getCurrentSection().getDynamicValidCommands().get(number - 1) + " ?");
+                        while (true) {
+                            try {
+                                String position = view.getVillageView().getLocation();
+                                String[] loc = position.split(" ");
+                                location = new Location(Integer.parseInt(loc[0].substring(1, loc[0].length() - 1)), Integer.parseInt(loc[1].substring(0, loc[1].length() - 1)));
+                                break outer;
+                            }
+                            catch (InvalidCommandException ignore) {
+
+                            }
+                        }
+                    }
+                    else {
+                        view.println(menuController.changeSection(menuController.getCurrentSection()));
+                        return;
+                    }
+                }
+                catch (InvalidCommandException ignored) {
+
+                }
+                catch (LowResourcesException e) {
+                    e.printAnnouncement();
+                    return;
+                }
+            }
+        }
+        catch (BusyBuildersException e) {
+            e.printAnnouncement();
+            return;
+        }
         switch (menuController.getCurrentSection().getDynamicValidCommands().get(number - 1)) {
             case "Gold mine":
-                GoldMine goldMine = new GoldMine();
+                GoldMine goldMine = new GoldMine(location, model);
+                model.getMap().getCell(location).addBuilding(goldMine);
                 break;
             case "Elixir mine":
                 break;

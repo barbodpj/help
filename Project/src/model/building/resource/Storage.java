@@ -1,5 +1,7 @@
 package model.building.resource;
 
+import model.Location;
+import model.Village;
 import model.building.*;
 
 public abstract class Storage extends Building {
@@ -21,7 +23,8 @@ public abstract class Storage extends Building {
 
 
 
-	public Storage(int initialAmount) {
+	public Storage(Location location, Village village, int initialAmount) {
+		super(location, village);
 		this.resource = initialAmount;
 	}
 

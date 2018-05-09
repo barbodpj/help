@@ -1,6 +1,7 @@
 package controller;
 
 import com.google.gson.Gson;
+import controller.exception.InvalidCommandException;
 import model.*;
 import view.*;
 
@@ -8,18 +9,41 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//TODO add save option
 public class Controller {
-    Village model;
-    View view;
-    AttackController attackController;
-    VillageController villageController;
-    MenuController menuController;
+    private Village model = null;
+    private View view;
+    private AttackController attackController;
+    private VillageController villageController;
+    private MenuController menuController;
 
-    public Controller(Village model, View view, MenuController menuController) {
-        this.model = model;
+    public Controller(View view, MenuController menuController) {
         this.view = view;
         this.menuController = menuController;
-        villageController = new VillageController();
+    }
+
+    public void start() {
+        while (true) {
+            String command = null;
+            try {
+                command = view.enterGame();
+                if(command.matches("newGame")) {
+                    model = new Village();
+                    break;
+                }
+                if(command.matches("load .*")) {
+                    String[] input = command.split(" ");
+                    model = load(input[1]);
+                    if(model != null) {
+                        break;
+                    }
+                }
+            }
+            catch (InvalidCommandException ignored) {
+
+            }
+        }
+        villageController = new VillageController(model, view, menuController);
         attackController = new AttackController();
     }
 
@@ -46,6 +70,31 @@ public class Controller {
         } catch (FileNotFoundException e) {
             view.println("File not found");
             return null;
+        }
+    }
+
+    public AttackController getAttackController() {
+        return attackController;
+    }
+
+    public VillageController getVillageController() {
+        return villageController;
+    }
+
+    public void handleMenuBack() {
+        view.println(menuController.back());
+    }
+
+    public void handleShowMenu() {
+        view.println(menuController.showMenu());
+    }
+
+    public void handleWhereAmI() {
+        if(menuController.getBuildingType() == null) {
+            view.println(menuController.getCurrentSection().getValue());
+        }
+        else {
+            view.println(menuController.getBuildingType().getValue() + " " + menuController.getBuildingNumber());
         }
     }
 }

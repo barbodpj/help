@@ -1,6 +1,8 @@
 package model.building.defence;
 
 import constants.Constants;
+import model.Location;
+import model.Village;
 import model.building.*;
 import model.interfaces.*;
 import constants.enums.*;
@@ -33,5 +35,9 @@ public abstract class DefenceBuilding extends Building implements Attacker {
 	@Override
 	public int getDamage() {
 
+	}
+
+	public DefenceBuilding(Location location, Village village) {
+		super(location, village);
 	}
 }

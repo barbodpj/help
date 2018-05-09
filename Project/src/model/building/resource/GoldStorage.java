@@ -1,5 +1,8 @@
 package model.building.resource;
 
+import model.Location;
+import model.Village;
+
 public class GoldStorage extends Storage {
     public final static int initialCapacity = 100;
 
@@ -20,9 +23,9 @@ public class GoldStorage extends Storage {
         return capacity;
     }
 
-    public GoldStorage (int initialAmount)
+    public GoldStorage (Location location, Village village, int initialAmount)
     {
-        super(initialAmount);
+        super(location, village, initialAmount);
     }
 
     int addResources(int amount) {//returns the remaining

@@ -1,6 +1,8 @@
 package model.building.resource;
 
 import constants.enums.BuildingType;
+import model.Location;
+import model.Village;
 import model.building.Building;
 
 public class GoldMine extends Mine {
@@ -36,5 +38,9 @@ public class GoldMine extends Mine {
             if (resource == 0)
                 break;
         }
+    }
+
+    public GoldMine(Location location, Village village) {
+        super(location, village);
     }
 }

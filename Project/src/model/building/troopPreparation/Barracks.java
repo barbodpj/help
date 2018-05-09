@@ -3,6 +3,7 @@ package model.building.troopPreparation;
 import constants.Constants;
 import controller.exception.gameException.LevelBoundaryException;
 import model.Cost;
+import model.Location;
 import model.ReflectionUI;
 import model.Village;
 import model.building.*;
@@ -21,8 +22,9 @@ public class Barracks extends Building {
 	private ArrayList<Integer> remainingTime;
 
 
-	public  Barracks(Village village)
+	public  Barracks(Location location, Village village)
 	{
+		super(location, village);
 		this.village = village;
 	}
 

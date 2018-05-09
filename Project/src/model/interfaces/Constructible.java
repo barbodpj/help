@@ -5,14 +5,13 @@ import model.map.Map;
 
 public interface Constructible {
 
-	 Cost getBuildCost();
+	Cost getBuildCost();
 
 	int getBuildTime();
 
 	Cost getUpgradeCost();
 
-
-
+	int getInitialHealth();
 
 
 }

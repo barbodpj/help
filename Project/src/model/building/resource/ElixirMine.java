@@ -1,6 +1,8 @@
 package model.building.resource;
 
 import constants.enums.BuildingType;
+import model.Location;
+import model.Village;
 import model.building.Building;
 
 public class ElixirMine extends Mine {
@@ -35,5 +37,9 @@ public class ElixirMine extends Mine {
             if (resource == 0)
                 break;
         }
+    }
+
+    public ElixirMine(Location location, Village village) {
+        super(location, village);
     }
 }

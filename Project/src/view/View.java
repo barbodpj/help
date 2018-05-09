@@ -43,7 +43,7 @@ public class View {
 
     public String enterGame() throws InvalidCommandException {
         String commandLine = View.scanner.nextLine();
-        if(commandLine.matches("newGame") || commandLine.matches("load .*") || commandLine.matches("save .* .*")) {
+        if(commandLine.matches("newGame") || commandLine.matches("load .*")) {
             return commandLine;
         }
         throw new InvalidCommandException();

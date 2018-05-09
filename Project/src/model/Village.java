@@ -118,4 +118,7 @@ public class Village {
 		upgradeQueue.remove(building);
 	}
 
+	public Map getMap() {
+		return map;
+	}
 }

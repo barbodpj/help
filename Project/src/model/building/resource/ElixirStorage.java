@@ -1,5 +1,8 @@
 package model.building.resource;
 
+import model.Location;
+import model.Village;
+
 public class ElixirStorage extends Storage {
     public final static int initialCapacity = 20;
 
@@ -9,9 +12,9 @@ public class ElixirStorage extends Storage {
 
 
 
-    public ElixirStorage (int initialAmount)
+    public ElixirStorage (Location location, Village village, int initialAmount)
     {
-        super(initialAmount);
+        super(location, village, initialAmount);
     }
 
 

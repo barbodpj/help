@@ -4,6 +4,7 @@ import comparator.BuildingTypeComparator;
 import constants.Constants;
 import constants.enums.BuildingType;
 import controller.exception.gameException.BusyBuildersException;
+import model.Location;
 import model.Village;
 import model.building.*;
 
@@ -54,7 +55,8 @@ public class TownHall extends Building {
 		return status;
 	}
 
-	public TownHall(Village village) {
+	public TownHall(Location location, Village village) {
+		super(location);
 		this.village = village;
 		Builder builder = new Builder(village);
 		builders.add(builder);
@@ -86,4 +88,6 @@ public class TownHall extends Building {
 		String output = "Upgrade Cost: 500 golds";
 		return output;
 	}
+
+
 }

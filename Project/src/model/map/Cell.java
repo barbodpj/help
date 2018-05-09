@@ -1,24 +1,30 @@
 package model.map;
 
+import controller.exception.gameException.InvalidCellException;
 import model.building.*;
 import model.troop.*;
 import model.*;
+import controller.exception.*;
 
 import java.util.ArrayList;
 
 public class Cell {
 
-	private Building building;
-	private ArrayList<Troop> troops;
+	private Building building = null;
+	private ArrayList<Troop> troops = new ArrayList<>();
 	private Location location;
 
 	/**
 	 * 
-	 * @param buiding
+	 * @param building
 	 */
-	public void addBuilding(Building buiding) {
-		// TODO - implement Cell.addBuilding
-		throw new UnsupportedOperationException();
+	public void addBuilding(Building building) throws InvalidCellException {
+		if(this.building != null) {
+			throw new InvalidCellException();
+		}
+		else {
+			this.building = building;
+		}
 	}
 
 	/**
@@ -26,14 +32,10 @@ public class Cell {
 	 * @param location
 	 */
 	public Cell(Location location) {
-		// TODO - implement Cell.Cell
-		throw new UnsupportedOperationException();
+		this.location = location;
 	}
 
-	/**
-	 * 
-	 * @param buiding
-	 */
+
 	public Building getBuilding() {
 		return building;
 	}

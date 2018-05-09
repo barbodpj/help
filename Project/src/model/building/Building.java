@@ -14,6 +14,7 @@ import java.util.HashMap;
 public abstract class Building implements Constructible {
 	//TODO overriding upgrade method in cannon and ...
 	//TODO edit constructor
+	//TODO getHealth
 
 	protected Village village;
 
@@ -23,13 +24,13 @@ public abstract class Building implements Constructible {
 
 	protected boolean isDestoryed; //we use this only in attack mode
 
-	protected int level;
+	protected int level = 0;
 
 	public boolean isDestoryed() {
 		return isDestoryed;
 	}
 
-	protected static HashMap<BuildingType, Integer> buildingNumbers;
+	protected static HashMap<BuildingType, Integer> buildingNumbers = new HashMap<>();
 
 	protected int number;
 
@@ -39,7 +40,11 @@ public abstract class Building implements Constructible {
 
 	protected Builder builder;
 
-	public Building(){};
+	static  {
+		for(BuildingType type: BuildingType.values()) {
+			buildingNumbers.put(type, 0);
+		}
+	}
 
 	public int getNumber() {
 		return number;
@@ -107,6 +112,8 @@ public abstract class Building implements Constructible {
 	public Building(Location location , Village village ) {
 		this.location = location;
 		this.village = village;
+		number = buildingNumbers.get(BuildingType.valueOf(this.getClass().toString())) + ((TownHall)village.getBuilding(BuildingType.TownHall, 1)).getBuildingQueue().get(BuildingType.valueOf(this.getClass().toString())).size() + 1;
+
 	}
 
 	@Override
@@ -182,5 +189,10 @@ public abstract class Building implements Constructible {
 
 	public int getHealth() {
 		return health;
+	}
+
+	@Override
+	public int getInitialHealth() {
+		return Constants.buildingInitialHealth.get(BuildingType.valueOf(this.getClass().toString()));
 	}
 }
