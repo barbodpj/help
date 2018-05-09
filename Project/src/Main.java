@@ -38,6 +38,8 @@ public class Main {
                             }
                             break;
                         case TownHallInfo:
+                        case MineInfo:
+                        case BarracksInfo:
                             switch (newCommand) {
                                 case 1:
                                     controller.getVillageController().handleOverallInfo();
@@ -65,19 +67,6 @@ public class Main {
                                     controller.getVillageController().handleBarracksStatus();
                                     break;
                                 case 4:
-                                    controller.handleMenuBack();
-                                    break;
-                            }
-                            break;
-                        case BarracksInfo:
-                            switch (newCommand) {
-                                case 1:
-                                    controller.getVillageController().handleOverallInfo();
-                                    break;
-                                case 2:
-                                    controller.getVillageController().handleUpgrade();
-                                    break;
-                                case 3:
                                     controller.handleMenuBack();
                                     break;
                             }
@@ -121,19 +110,6 @@ public class Main {
                                     break;
                                 case 2:
                                     controller.getVillageController().handleMine();
-                                    break;
-                                case 3:
-                                    controller.handleMenuBack();
-                                    break;
-                            }
-                            break;
-                        case MineInfo:
-                            switch (newCommand) {
-                                case 1:
-                                    controller.getVillageController().handleOverallInfo();
-                                    break;
-                                case 2:
-                                    controller.getVillageController().handleUpgrade();
                                     break;
                                 case 3:
                                     controller.handleMenuBack();

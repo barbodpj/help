@@ -171,7 +171,7 @@ public class VillageController {
                                         }
                                     case "Elixir mine":
                                         try {
-                                            ElixirMine elixirMine = new ElixirMine(location, model)
+                                            ElixirMine elixirMine = new ElixirMine(location, model);
                                             model.getMap().getCell(location).addBuilding(elixirMine);
                                             ((Building) elixirMine).setBuilder(builder);
                                             builder.build(elixirMine);

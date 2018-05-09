@@ -22,6 +22,10 @@ public class Controller {
         this.menuController = menuController;
     }
 
+    public void readConstants() {
+        ArrayList<String> input = view.fileReader()
+    }
+
     public void start() {
         while (true) {
             String command = null;
