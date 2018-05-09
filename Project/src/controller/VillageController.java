@@ -6,14 +6,21 @@ import constants.enums.Section;
 import constants.enums.TroopType;
 import controller.exception.InvalidCommandException;
 import controller.exception.gameException.BusyBuildersException;
+import controller.exception.gameException.InvalidCellException;
 import controller.exception.gameException.LevelBoundaryException;
 import controller.exception.gameException.LowResourcesException;
 import model.Location;
 import model.Village;
 import model.building.Building;
+import model.building.defence.*;
 import model.building.headquarter.Builder;
 import model.building.headquarter.TownHall;
+import model.building.resource.ElixirMine;
+import model.building.resource.ElixirStorage;
 import model.building.resource.GoldMine;
+import model.building.resource.GoldStorage;
+import model.building.troopPreparation.Barracks;
+import model.building.troopPreparation.Camp;
 import view.View;
 
 public class VillageController {
@@ -148,7 +155,176 @@ public class VillageController {
                                 String position = view.getVillageView().getLocation();
                                 String[] loc = position.split(" ");
                                 location = new Location(Integer.parseInt(loc[0].substring(1, loc[0].length() - 1)), Integer.parseInt(loc[1].substring(0, loc[1].length() - 1)));
-                                break outer;
+                                switch (menuController.getCurrentSection().getDynamicValidCommands().get(number - 1)) {
+                                    case "Gold mine":
+                                        try {
+                                            GoldMine goldMine = new GoldMine(location, model);
+                                            model.getMap().getCell(location).addBuilding(goldMine);
+                                            ((Building) goldMine).setBuilder(builder);
+                                            builder.build(goldMine);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Elixir mine":
+                                        try {
+                                            ElixirMine elixirMine = new ElixirMine(location, model)
+                                            model.getMap().getCell(location).addBuilding(elixirMine);
+                                            ((Building) elixirMine).setBuilder(builder);
+                                            builder.build(elixirMine);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Gold storage":
+                                        try {
+                                            GoldStorage goldStorage = new GoldStorage(location, model, 0);
+                                            model.getMap().getCell(location).addBuilding(goldStorage);
+                                            ((Building) goldStorage).setBuilder(builder);
+                                            builder.build(goldStorage);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Elixir storage":
+                                        try {
+                                            ElixirStorage elixirStorage = new ElixirStorage(location, model, 0);
+                                            model.getMap().getCell(location).addBuilding(elixirStorage);
+                                            ((Building) elixirStorage).setBuilder(builder);
+                                            builder.build(elixirStorage);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Town hall":
+                                        try {
+                                            TownHall townHall = new TownHall(location, model);
+                                            model.getMap().getCell(location).addBuilding(townHall);
+                                            ((Building) townHall).setBuilder(builder);
+                                            builder.build(townHall);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Barracks":
+                                        try {
+                                            Barracks barracks = new Barracks(location, model);
+                                            model.getMap().getCell(location).addBuilding(barracks);
+                                            ((Building) barracks).setBuilder(builder);
+                                            builder.build(barracks);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Camp":
+                                        try {
+                                            Camp camp = new Camp(location, model);
+                                            model.getMap().getCell(location).addBuilding(camp);
+                                            ((Building) camp).setBuilder(builder);
+                                            builder.build(camp);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Archer tower":
+                                        try {
+                                            ArcherTower archerTower = new ArcherTower(location, model);
+                                            model.getMap().getCell(location).addBuilding(archerTower);
+                                            ((Building) archerTower).setBuilder(builder);
+                                            builder.build(archerTower);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Cannon":
+                                        try {
+                                            Cannon cannon = new Cannon(location, model);
+                                            model.getMap().getCell(location).addBuilding(cannon);
+                                            ((Building) cannon).setBuilder(builder);
+                                            builder.build(cannon);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Air defence":
+                                        try {
+                                            AirDefence airDefence = new AirDefence(location, model);
+                                            model.getMap().getCell(location).addBuilding(airDefence);
+                                            ((Building) airDefence).setBuilder(builder);
+                                            builder.build(airDefence);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Wizard tower":
+                                        try {
+                                            WizardTower wizardTower = new WizardTower(location, model);
+                                            model.getMap().getCell(location).addBuilding(wizardTower);
+                                            ((Building) wizardTower).setBuilder(builder);
+                                            builder.build(wizardTower);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Wall":
+                                        try {
+                                            Wall wall = new Wall(location, model);
+                                            model.getMap().getCell(location).addBuilding(wall);
+                                            ((Building) wall).setBuilder(builder);
+                                            builder.build(wall);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Trap":
+                                        try {
+                                            Trap trap = new Trap(location, model);
+                                            model.getMap().getCell(location).addBuilding(trap);
+                                            ((Building) trap).setBuilder(builder);
+                                            builder.build(trap);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                    case "Giants castle":
+                                        try {
+                                            GiantsCastle giantsCastle = new GiantsCastle(location, model);
+                                            model.getMap().getCell(location).addBuilding(giantsCastle);
+                                            ((Building) giantsCastle).setBuilder(builder);
+                                            builder.build(giantsCastle);
+                                            return;
+                                        }
+                                        catch (InvalidCellException e) {
+                                            e.printAnnouncement();
+                                            break;
+                                        }
+                                }
                             }
                             catch (InvalidCommandException ignore) {
 
@@ -173,38 +349,7 @@ public class VillageController {
             e.printAnnouncement();
             return;
         }
-        switch (menuController.getCurrentSection().getDynamicValidCommands().get(number - 1)) {
-            case "Gold mine":
-                GoldMine goldMine = new GoldMine(location, model);
-                model.getMap().getCell(location).addBuilding(goldMine);
-                break;
-            case "Elixir mine":
-                break;
-            case "Gold storage":
-                break;
-            case "Elixir storage":
-                break;
-            case "Town hall":
-                break;
-            case "Barracks":
-                break;
-            case "Camp":
-                break;
-            case "Archer tower":
-                break;
-            case "Cannon":
-                break;
-            case "Air defence":
-                break;
-            case "Wizard tower":
-                break;
-            case "Wall":
-                break;
-            case "Trap":
-                break;
-            case "Giants castle":
-                break;
-        }
+
     }
 
 }
