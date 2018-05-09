@@ -110,6 +110,22 @@ public class Village {
 
 	}
 
+	public int getGoldStorageCapacity() {
+		int overallCapacity = 0;
+		for (int i = 0; i < buildings.get(BuildingType.GoldStorage).size(); i++) {
+			overallCapacity += ((GoldStorage) buildings.get(BuildingType.GoldStorage).get(i)).getCapacity();
+		}
+		return overallCapacity;
+	}
+
+	public int getElixirStorageCapacity() {
+		int overallCapacity = 0;
+		for (int i = 0; i < buildings.get(BuildingType.ElixirStorage).size(); i++) {
+			overallCapacity += ((ElixirStorage) buildings.get(BuildingType.ElixirStorage).get(i)).getCapacity();
+		}
+		return overallCapacity;
+	}
+
 	public void addToUpgradeQueue(Building building) {
 		upgradeQueue.add(building);
 	}

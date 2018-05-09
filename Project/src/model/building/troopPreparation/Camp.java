@@ -1,5 +1,6 @@
 package model.building.troopPreparation;
 
+import controller.exception.UnsupportedOperationException;
 import model.Location;
 import model.Village;
 import model.building.*;
@@ -21,7 +22,7 @@ public class Camp extends Building {
 	}
 
 	@Override
-	public void upgrade() {
+	public void upgrade() throws UnsupportedOperationException {
 		throw new UnsupportedOperationException();
 	}
 

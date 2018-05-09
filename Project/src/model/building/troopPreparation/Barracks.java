@@ -1,6 +1,7 @@
 package model.building.troopPreparation;
 
 import constants.Constants;
+import controller.exception.UnsupportedOperationException;
 import controller.exception.gameException.LevelBoundaryException;
 import model.Cost;
 import model.Location;
@@ -120,7 +121,7 @@ public class Barracks extends Building {
 	}
 
 	@Override
-	public void upgrade() throws UnsupportedOperationException, LevelBoundaryException {
+	public void upgrade() throws  LevelBoundaryException, UnsupportedOperationException {
 			if (Collections.max(Constants.troopsBuildTime.values()) <= this.level)
 				throw new UnsupportedOperationException();
 		super.upgrade();

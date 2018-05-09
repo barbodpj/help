@@ -5,6 +5,7 @@ import constants.enums.BuildingType;
 import constants.enums.Section;
 import constants.enums.TroopType;
 import controller.exception.InvalidCommandException;
+import controller.exception.UnsupportedOperationException;
 import controller.exception.gameException.BusyBuildersException;
 import controller.exception.gameException.InvalidCellException;
 import controller.exception.gameException.LevelBoundaryException;
@@ -15,10 +16,7 @@ import model.building.Building;
 import model.building.defence.*;
 import model.building.headquarter.Builder;
 import model.building.headquarter.TownHall;
-import model.building.resource.ElixirMine;
-import model.building.resource.ElixirStorage;
-import model.building.resource.GoldMine;
-import model.building.resource.GoldStorage;
+import model.building.resource.*;
 import model.building.troopPreparation.Barracks;
 import model.building.troopPreparation.Camp;
 import view.View;
@@ -83,6 +81,9 @@ public class VillageController {
                         try {
                             if(view.getVillageView().yesNoQuestion().matches("Y"))
                             {
+                                if(menuController.getCurrentSection() == Section.Camp) {
+                                    building.upgrade();
+                                }
                                 model.useResources(building.getUpgradeCost().getGold(), building.getUpgradeCost().getElixir());
                                 building.upgrade();
                                 break outer;
@@ -92,7 +93,7 @@ public class VillageController {
                                 break outer;
                             }
                         }
-                        catch (InvalidCommandException ignore) {
+                        catch (InvalidCommandException | UnsupportedOperationException ignore) {
 
                         }
                         catch (LowResourcesException e) {
@@ -351,5 +352,40 @@ public class VillageController {
         }
 
     }
+
+    public void handleTroopsConstruction(int number) {
+
+    }
+
+    public void handleBarracksStatus() {
+        view.printOutput(((Barracks)model.getBuilding(BuildingType.Barracks, menuController.getBuildingNumber())).showStatus());
+    }
+
+    public void handleBuildSoldiers() {
+        view.println(menuController.changeSection(Section.BuildSoldiers));
+    }
+
+    public void handleCampSoldiers() {
+        view.printOutput(((Camp)model.getBuilding(BuildingType.Camp, menuController.getBuildingNumber())).showTroops());
+    }
+
+    public void handleCapacityInfo() {
+        view.println("Your camps capacity is " + model.getNumberOfTroops() + " / " + Camp.getOverallCapacity() + ".");
+    }
+
+    public void handleMine() {
+        ((Mine)model.getBuilding(menuController.getBuildingType(), menuController.getBuildingNumber())).moveToStorage();
+    }
+
+    public void handleSourcesInfo() {
+        if(menuController.getBuildingType() == BuildingType.GoldStorage) {
+            view.println("Your gold storage is " + model.getAvailableGold() + " / " + model.getGoldStorageCapacity() + " loaded");
+        }
+        else {
+            view.println("Your elixir storage is " + model.getAvailableElixir() + " / " + model.getElixirStorageCapacity() + " loaded");
+        }
+    }
+
+
 
 }

@@ -1,6 +1,7 @@
 package model.building;
 
 import constants.Constants;
+import controller.exception.UnsupportedOperationException;
 import controller.exception.gameException.LevelBoundaryException;
 import model.building.resource.ElixirStorage;
 import model.building.resource.GoldStorage;
@@ -73,7 +74,7 @@ public abstract class Building implements Constructible {
 		return Constants.buildingsUpgradeTime.get(BuildingType.valueOf(this.getClass().toString()));
 	}
 
-	public void upgrade() throws LevelBoundaryException {
+	public void upgrade() throws LevelBoundaryException, UnsupportedOperationException {
 		if (this.level == village.getBuilding(BuildingType.TownHall , 1).level)
 			throw new LevelBoundaryException();
 		else

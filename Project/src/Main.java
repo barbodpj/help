@@ -56,96 +56,126 @@ public class Main {
                         case Barracks:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleInfo();
                                     break;
                                 case 2:
+                                    controller.getVillageController().handleBuildSoldiers();
                                     break;
                                 case 3:
+                                    controller.getVillageController().handleBarracksStatus();
                                     break;
                                 case 4:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
                         case BarracksInfo:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleOverallInfo();
                                     break;
                                 case 2:
+                                    controller.getVillageController().handleUpgrade();
                                     break;
                                 case 3:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
                         case BuildSoldiers:
+
                             break;
                         case Camp:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleInfo();
                                     break;
                                 case 2:
+                                    controller.getVillageController().handleCampSoldiers();
                                     break;
                                 case 3:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
                         case CampInfo:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleOverallInfo();
                                     break;
                                 case 2:
+                                    controller.getVillageController().handleUpgrade();
                                     break;
                                 case 3:
+                                    controller.getVillageController().handleCapacityInfo();
                                     break;
                                 case 4:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
                         case Mine:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleInfo();
                                     break;
                                 case 2:
+                                    controller.getVillageController().handleMine();
                                     break;
                                 case 3:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
                         case MineInfo:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleOverallInfo();
                                     break;
                                 case 2:
+                                    controller.getVillageController().handleUpgrade();
                                     break;
                                 case 3:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
                         case Storage:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleInfo();
                                     break;
                                 case 2:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
                         case StorageInfo:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleOverallInfo();
                                     break;
                                 case 2:
+                                    controller.getVillageController().handleUpgrade();
                                     break;
                                 case 3:
+                                    controller.getVillageController().handleSourcesInfo();
                                     break;
                                 case 4:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
                         case DefenceTower:
                             switch (newCommand) {
                                 case 1:
+                                    controller.getVillageController().handleOverallInfo();
                                     break;
                                 case 2:
+                                    controller.getVillageController().
                                     break;
                                 case 3:
+                                    controller.handleMenuBack();
                                     break;
                             }
                             break;
