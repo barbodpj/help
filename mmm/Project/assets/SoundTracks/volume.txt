@@ -1,0 +1,1099 @@
+
+-------Group 01 -- volume = 0 --------------------------------------------
+
+
+"fx\streamlp_02.wav"			10
+"fx\birdsloop_01.wav"			50
+"fx\birdsloop_02.wav"			50
+"fx\waterfalllp_01.wav"			15
+"fx\wind_short1.wav"			80
+"fx\wind_short2.wav"			80
+"fx\wind_short3.wav"			80
+"fx\wind_short4.wav"			80
+"fx\wind_short5.wav"			80
+"fx\gust1 22k.wav"			80
+"fx\ocean_short1.wav"			55
+"fx\ocean_short2.wav"			55
+"fx\ocean_short3.wav"		        55
+
+-------Group 02 -- volume = 0 --------------------------------------------
+
+"fx\fireloop1.wav"			25
+"fx\fireloop2.wav"			25
+"fx\maypole_01.wav"			63
+"fx\flagsmall_01.wav"			100
+"fx\flagsmall_02.wav"			100
+"fx\flaglarge_01.wav"			100
+"fx\flaglarge_02.wav"			100
+"fx\chapel.wav"				100
+"fx\church_01.wav"			100
+"fx\cathedral_01.wav"			100
+"fx\babycoo_01.wav"			30
+"fx\babycry_01.wav"			30
+"fx\babycoo_02.wav"			30
+"fx\babycry_02.wav"			30
+"fx\babycoo_03.wav"			30
+"fx\babycry_03.wav"			30
+"fx\babyhappy_01.wav"			30
+"fx\deerrun.wav"			125
+
+-------Group 03 -- volume = 0 --------------------------------------------
+"fx\chop1 22k.wav"			63
+"fx\chop2 22k.wav"			63
+"fx\chop3 22k.wav"			63
+"fx\bigtreefall1.wav"			73
+"fx\bigtreefall2.wav"			73
+"fx\liltreefall.wav"			53
+"fx\sawpull1 22k.wav"			43
+"fx\sawpush1 22k.wav"		        43
+"fx\sawpull2 22k.wav"			43
+"fx\sawpush2 22k.wav"			43
+"fx\sawpull3 22k.wav"			43
+"fx\sawpush3 22k.wav"			43
+"fx\droplog.wav"			63
+
+-------Group 04 -- volume =  +0 --------------------------------------------
+
+"fx\drawbridge_lowering.wav"		127
+"fx\drawbridge_lowered.wav"		127
+"fx\drawbridge_raising.wav"		127
+"fx\drawbridge_raised.wav"		127
+"fx\drawbridge_control.wav"		127
+
+"fx\portdrop1.wav"			63
+"fx\portdrop1a.wav"			63
+"fx\portlift1.wav"			63
+"fx\portlift1a.wav"			63
+"fx\portdrop1b.wav"			83
+
+"fx\moatdig1.wav"			63
+"fx\moatdig2.wav"			63
+"fx\moatdig3.wav"			63
+"fx\moatdig4.wav"			63
+
+-------Group 05 -- volume = 0 --------------------------------------------
+
+"fx\mudbub1.wav"			63
+"fx\mudbub2.wav"			63
+"fx\mudbub3.wav"			63
+"fx\mudbub4.wav"			63
+"fx\mudbub5.wav"			63
+"fx\mudbub6.wav"			63
+"fx\mudbub7.wav"			63
+"fx\mudbub8.wav"			63
+"fx\pit_waterlap1.wav"			90
+"fx\pit_waterlap2.wav"			90
+"fx\pit_waterlap3.wav"			90
+"fx\pit_scoop1.wav"			50
+"fx\pit_scoop2.wav"			50
+"fx\pit_scoop3.wav"			50
+"fx\pit_pour5.wav"			40
+"fx\pit_pour6.wav"			40
+"fx\pit_pour7.wav"			40
+"fx\pit_pour8.wav"			40
+
+-------Group 06 -- volume = 0 --------------------------------------------
+
+"fx\pole_turn1.wav"		        63
+"fx\pole_turn2.wav"			63
+"fx\pole_turn3.wav"			63
+"fx\pole_grind2.wav"			33
+"fx\pole_grind3.wav"			33
+"fx\pole_grind6.wav"			33
+
+-------Group 07 -- volume = 0 --------------------------------------------
+
+"fx\bs_anvil4.wav"			63
+"fx\bs_anvil2.wav"			63
+"fx\bs_anvil3.wav"		        63
+"fx\bs_anvil1.wav"			63
+"fx\bs_anvil5.wav"			63
+"fx\bs_bellow1.wav"			43
+"fx\bs_bellow3.wav"			43
+"fx\bs_bellow4.wav"			43
+"fx\bs_cooling2.wav"			73
+"fx\bs_cooling3.wav"			73
+"fx\bs_pour3.wav"			90
+"fx\bs_open4.wav"			90
+"fx\bs_file10.wav"			63
+"fx\bs_file12.wav"			63
+"fx\bs_file13.wav"			63
+"fx\bs_file9.wav"			63
+
+
+-------Group 08 -- volume = 0 --------------------------------------------
+"fx\mason_chip1.wav"			63
+"fx\mason_chip2.wav"			63
+"fx\mason_chip3.wav"			63
+"fx\mason_crumble1.wav"			63
+"fx\mason_crumble2.wav"			63
+"fx\puller_lower.wav"			63
+"fx\puller_strain.wav"			48
+"fx\puller_rock.wav"			63
+"fx\puller_impact.wav"			99
+"fx\puller_return.wav"			63
+"fx\pryer_lever1.wav"			63
+"fx\pryer_lever2.wav"			63
+"fx\pryer_lever3.wav"			63
+
+-------Group 09 -- volume = 50 --------------------------------------------
+
+"fx\stir1.wav"				63
+"fx\stir2.wav"				63
+"fx\stir3.wav"				63
+"fx\stir4.wav"				63
+"fx\stir5.wav"				63
+"fx\stir6.wav"				63
+"fx\broom_1.wav"			63
+"fx\broom_2.wav"			63
+"fx\broom_3.wav"			63
+"fx\broom_4.wav"			63
+"fx\broom_5.wav"			63
+
+-------Group 10 -- volume = 0 --------------------------------------------
+
+"fx\tan_cut4.wav"			53
+"fx\tan_lilcut7.wav"			53
+"fx\tan_cut5.wav"			53
+"fx\tan_lilcut8.wav"			53
+"fx\tan_cut6.wav"			53
+"fx\tan_lilcut9.wav"			53
+"fx\tan_upbrush1.wav"			23
+"fx\tan_upbrush2.wav"			23
+"fx\tan_upbrush3.wav"			23
+"fx\tan_dnbrush1.wav"			23
+"fx\tan_dnbrush2.wav"			23
+"fx\tan_dnbrush3.wav"			23
+"fx\sharpen_sht_1.wav"			63
+"fx\sharpen_med_1.wav"			63
+"fx\sharpen_lng_1.wav"			63
+"fx\sharpen_sht_2.wav"			63
+"fx\sharpen_med_2.wav"			63
+"fx\sharpen_lng_2.wav"			63
+
+-------Group 11 -- volume = 0 --------------------------------------------
+
+"fx\iron_dump1.wav"			73
+"fx\iron_dump2.wav"			73
+"fx\iron_lildump1.wav"			53
+"fx\iron_lildump2.wav"			53
+"fx\iron_boil1.wav"			63
+"fx\iron_pour1.wav"			63
+"fx\iron_pour2.wav"			63
+"fx\iron_pull1.wav"			99
+"fx\iron_pull2.wav"			99
+"fx\iron_pull7.wav"			99
+"fx\iron_pull4.wav"			99
+"fx\iron_pull5.wav"			99
+"fx\iron_pull6.wav"			99
+"fx\iron_pull3.wav"			99
+"fx\iron_straining1.wav"		63
+"fx\iron_straining2.wav"		63
+"fx\iron_straining3.wav"		63
+
+-------Group 12 -- volume = 0 --------------------------------------------
+
+"fx\fletch23.wav"			33
+"fx\fletch24.wav"			33
+"fx\fletch25.wav"			33
+
+-------Group 13 -- volume = 0 --------------------------------------------
+"fx\harvest_01.wav"			63
+"fx\harvest_02.wav"			63
+"fx\harvest_03.wav"			63
+"fx\harvest_04.wav"			63
+"fx\harvest_05.wav"			63
+"fx\harvest_06.wav"			63
+"fx\hoe_01.wav"				63
+"fx\hoe_02.wav"				63
+"fx\hoe_03.wav"				63
+"fx\hoe_04.wav"				63
+"fx\hoe_05.wav"				63
+"fx\hoe_06.wav"				63
+"fx\hoe_07.wav"				63
+
+
+-------Group 14 -- volume = 0 ------------------------------------------
+
+"fx\bakebig1.wav"			63
+"fx\bakebig4.wav"			63
+"fx\bakebig5.wav"			63
+
+"fx\bakesmall2.wav"			63
+"fx\bakesmall3.wav"			63
+"fx\bakesmall4.wav"			63
+"fx\bakesmall5.wav"			63
+
+-------Group 15 -- volume = 0 --------------------------------------------
+
+"fx\armourhit_01.wav"			53
+"fx\armourhit_02.wav"			53
+"fx\armourhit_03.wav"			53
+"fx\armourhit_04.wav"			53
+"fx\armourhit_05.wav"			53
+
+-------Group 16 -- volume = 0 --------------------------------------------
+"fx\cow_slaughter.wav"			99
+"fx\milking_1.wav"			20
+"fx\milking_2.wav"			20
+"fx\milking_3.wav"			20
+"fx\milking_4.wav"			20
+"fx\milking_5.wav"			20
+"fx\milking_6.wav"			20
+"fx\milking_7.wav"			20
+"fx\cowmoo_1.wav"			38
+"fx\cowmoo_2.wav"			38
+"fx\cowmoo_3.wav"			38
+"fx\cowmoo_4.wav"			38
+"fx\milkpour.wav"			70
+"fx\cowhitsdust.wav"			83
+
+
+-------Group 17 -- volume = 00 --------------------------------------------
+
+"fx\deerfall_1.wav"			73
+"fx\huntercut_01.wav"			63
+"fx\huntercut_02.wav"			63
+"fx\huntercut_03.wav"			63
+"fx\arrowstab_01.wav"			63
+
+-------Group 18 -- volume = 00 --------------------------------------------
+
+"fx\begauk.wav"			        15
+"fx\chicflap_01.wav"			15
+"fx\chicflap_02.wav"			15
+"fx\chicflap_03.wav"			15
+"fx\chicflap_04.wav"			15
+"fx\clucking1.wav"			17
+"fx\clucking2.wav"			17
+"fx\clucking3.wav"			17
+"fx\clucking4.wav"			17
+
+"fx\lonewolf_1.wav"			100
+"fx\multwolves_4.wav"			100			
+"fx\lonewolf_2.wav"			100
+
+"fx\crowmulti_01.wav"			100
+"fx\crowmulti_02.wav"			100
+"fx\crowsingular_01.wav"		100
+"fx\crowsingular_02.wav"		100
+"fx\crowsingular_03.wav"		100
+
+"fx\gulls_01.wav"			100
+"fx\gulls_02.wav"			100
+
+"fx\bearattack_1.wav"			63
+"fx\bearattack_2.wav"			63
+"fx\bearattack_3.wav"			63
+"fx\beardies_1.wav"			63
+"fx\beardies_2.wav"			63
+"fx\beardies_3.wav"			63
+
+"fx\dogdblbark_1.wav"			63
+"fx\dogdblbark_2.wav"			63
+"fx\dogdies_1.wav"			63
+"fx\dogdies_2.wav"			63
+"fx\dogpant.wav"			63
+"fx\dogtalk_6.wav"			63
+"fx\dogtalk_1.wav"			63
+"fx\dogtalk_4.wav"			63
+"fx\dogsingbark_1.wav"			63
+"fx\dogsingbark_2.wav"			63
+"fx\dogsingbark_3.wav"			63
+"fx\dogtalk_5.wav"			63
+
+"fx\dogcage.wav"			100
+
+"fx\wabbitdies_1.wav"			63
+"fx\wabbitdies_4.wav"			63
+"fx\wabbitdies_5.wav"			63
+
+"fx\wolfdies_1.wav"			63
+"fx\wolfdies_2.wav"			63
+"fx\wolfdies_3.wav"			63
+"fx\wolfattack_1.wav"			63
+"fx\wolfattack_2.wav"			63
+"fx\wolfattack_3.wav"			63
+"fx\wolfattack_4.wav"			63
+"fx\wolfattack_5.wav"			63
+"fx\pantlick_1.wav"			63
+"fx\pantlick_2.wav"			63
+
+"fx\trot_sing_01.wav"			115
+"fx\trot_mult_01.wav"			115
+"fx\trot_mult_02.wav"			115
+"fx\trot_mult_03.wav"			115
+"fx\trot_mult_04.wav"			115
+"fx\trot_mult_05.wav"			115
+"fx\snort_01.wav"			115
+"fx\snort_02.wav"			115
+"fx\snort_03.wav"			115
+"fx\whinny_m_01.wav"			115
+"fx\whinny_m_02.wav"			115
+"fx\whinny_s_02.wav"			115
+"fx\whinny_s_03.wav"			115
+"fx\horsedie_01.wav"			115
+"fx\horsedie_02.wav"			115
+"fx\horsedie_03.wav"			115
+
+"fx\oxdeath.wav"			100
+
+-------Group 19 -- volume = 0 --------------------------------------------
+
+"fx\arrbounce1.wav"			127
+"fx\arrbounce4.wav"			127
+"fx\arrbounce5.wav"			127
+"fx\arrbounce7.wav"			127
+"fx\bowtwang 22k.wav"			63
+"fx\arrowswish1 22k.wav"		63
+"fx\arrowswish2 22k.wav"		63
+"fx\arrowshoot1 22k.wav"		63
+"fx\arrowhit4 22k.wav"			63
+"fx\flamearrow_01.wav"			110
+"fx\flamearrow_02.wav"			110
+"fx\flamearrow_03.wav"			110
+"fx\flamearrow_04.wav"			110
+
+"fx\cbow_01.wav"			63
+"fx\cbow_02.wav"			63
+"fx\cbow_03.wav"			63
+"fx\cbow_04.wav"			63
+"fx\cbow_05.wav"			63
+"fx\cbowwind_01.wav"			48
+"fx\cbowwind_02.wav"			48
+"fx\cbowwind_03.wav"			48
+
+-------Group 20 -- volume = 0 --------------------------------------------
+
+"fx\oneswdsmanwalk_01.wav"		63
+"fx\oneswdsmanwalk_02.wav"		63
+"fx\twoswdsmanwalk_01.wav"		63
+"fx\multswdsmanwalk_01.wav"		63
+
+"fx\sheathin_01.wav"			63
+"fx\sheathin_02.wav"			63
+"fx\sheathout_01.wav"			63
+"fx\sheathout_02.wav"			63
+
+"fx\swclang1.wav"			63
+"fx\swclang2.wav"			63
+"fx\swclang3.wav"			63
+"fx\swcombi1.wav"			63
+"fx\swcombi4.wav"			63
+"fx\swhit1.wav"				63
+"fx\swhit11.wav"			63
+"fx\swhit15.wav"			63
+"fx\swhit3.wav"			        63
+"fx\swhit8.wav"				63
+"fx\swhit9.wav"				63
+"fx\swcrape1.wav"			63
+"fx\swclang4.wav"			63
+"fx\swclang5.wav"			63
+"fx\swcombi8.wav"			63
+"fx\swcombi9.wav"			63
+
+"fx\swish1.wav"				63
+"fx\swish4.wav"				63
+"fx\swish5.wav"				63
+"fx\swish7.wav"				63
+"fx\swish8.wav"				63
+"fx\swish9.wav"				63
+"fx\swish13.wav"			63
+"fx\swish14.wav"			63
+
+-------Group 21 -- volume = 0 --------------------------------------------
+
+"fx\tunnel1.wav"			63
+"fx\tunnel2.wav"			63
+"fx\tunnel3.wav"			63
+"fx\tunnel4.wav"			63
+"fx\tunnel5.wav"			63
+"fx\tunnel6.wav"			63
+"fx\tunnel7.wav"			63
+"fx\tunnel8.wav"			63
+
+"fx\walldrop_01.wav"			90
+"fx\walldrop_02.wav"			90
+"fx\walldrop_03.wav"			90
+"fx\walldrop_04.wav"			90
+
+-------Group 22 -- volume = 0 --------------------------------------------
+
+"fx\menusl_1.wav"			43
+"fx\menusl_2.wav"			43
+"fx\menusl_3.wav"			43
+
+"fx\metpush7.wav"			100
+"fx\metpush12.wav"			100
+"fx\metpush13.wav"			100
+"fx\metpush15.wav"			100
+"fx\metpush5.wav"			100
+"fx\metpush1.wav"			100
+"fx\metrollover3a.wav"			100
+"fx\metrollover13.wav"			100
+"fx\metrollover15.wav"			100
+"fx\metrollover2.wav"			100
+"fx\metrollover4.wav"			100
+"fx\metrollover12.wav"			100
+"fx\woodpush2.wav"			100
+"fx\woodrollover2.wav"			100
+"fx\woodrollover3.wav"			100
+"fx\woodrollover7.wav"			100
+"fx\woodrollover8.wav"			100
+"fx\shieldrollover.wav"			100
+
+
+-------Group 23 -- volume = 0 --------------------------------------------
+
+"fx\ghswing_01.wav"			100
+"fx\ghswing_02.wav"			100
+"fx\ghcatch_01.wav"			100
+"fx\ghcatch_02.wav"			100
+"fx\ghcatch_03.wav"			100
+"fx\ghcatch_04.wav"			100
+"fx\ghcatch_05.wav"			100
+"fx\ropeslide_01.wav"			127
+"fx\ropeslide_02.wav"			127
+"fx\ropeslide_03.wav"			127
+"fx\asnland_01.wav"			100
+"fx\asnland_02.wav"			100
+"fx\asnland_03.wav"			100
+"fx\asnswish_01.wav"			100
+"fx\asnswish_02.wav"			100
+"fx\asnswish_03.wav"			100
+"fx\asnswish_04.wav"			100
+"fx\slingthrow_01.wav"			20
+"fx\slingthrow_02.wav"			20
+"fx\slingthrow_03.wav"			20
+"fx\slingthrow_04.wav"			20
+"fx\slingthrow_05.wav"			20
+"fx\slavefire_01.wav"			100
+"fx\slavefire_02.wav"			100
+"fx\slavefire_03.wav"			100
+"fx\lordswing_01.wav"			100
+"fx\lordswing_02.wav"			100
+"fx\lordswing_03.wav"			100
+"fx\harch__01.wav"			100
+"fx\harch__02.wav"			100
+"fx\harch__03.wav"			100
+"fx\firethrow_01.wav"			100
+"fx\firethrow_02.wav"			100
+"fx\firethrow_03.wav"			100
+
+-------Group 24 -- volume = 0 --------------------------------------------
+
+
+-------Group 25 -- volume = 25 --------------------------------------------
+
+
+
+-------Group 26 -- volume = 0 --------------------------------------------
+
+
+-------Group 27 -- volume = 0 --------------------------------------------
+
+"fx\pot_flareup_1.wav"			63
+"fx\pot_flareup_2.wav"			63
+"fx\opencldrn_01.wav"			63
+"fx\opencldrn_02.wav"			63
+"fx\ironrefill.wav"			100
+
+"fx\oildump_1.wav"			90
+"fx\oildump_2.wav"			90
+"fx\oildump_3.wav"			90
+"fx\oildump_4.wav"			90
+
+"fx\firestart_1.wav"			85
+"fx\firestart_2.wav"			85
+
+"fx\ignite_pitch.wav"			90
+"fx\ignite_oil.wav"			90
+
+"fx\firelp_1.wav"			70
+
+"fx\burn1.wav"				53
+"fx\burn2.wav"				53
+"fx\burn3.wav"				53
+"fx\burn4.wav"				53
+"fx\burn5.wav"				53
+"fx\burn6.wav"				53
+"fx\burn7.wav"				53
+"fx\burn8.wav"				53
+"fx\burn9.wav"				53
+"fx\burn10.wav"				53
+"fx\burn11.wav"				53
+"fx\burn12.wav"				53
+"fx\burn13.wav"				53
+"fx\burn14.wav"				53
+"fx\burn15.wav"				53
+"fx\burn16.wav"				53
+
+-------Group 28 -- volume = 0 --------------------------------------------
+"fx\bighit_01.wav"			93
+"fx\bighit_02.wav"			93
+"fx\bighit_03.wav"			93
+"fx\bighit_04.wav"			93
+"fx\bighit_05.wav"			93
+"fx\bighit_06.wav"			93
+"fx\miss_l_01.wav"			93
+"fx\miss_l_02.wav"			93
+"fx\miss_l_03.wav"			93
+"fx\miss_s_01.wav"			93
+
+"fx\towersmash_01.wav"			127
+"fx\towersmash_02.wav"			127
+"fx\towersmash_03.wav"			127
+"fx\buildingwreck_01.wav"		112
+"fx\shielddie_01.wav"			112
+
+"fx\rocksplash_01.wav"			110
+"fx\rocksplash_02.wav"			110
+"fx\rocksplash_03.wav"			110
+"fx\medplop_01.wav"			99
+"fx\medplop_02.wav"			99
+"fx\medplop_03.wav"			99
+"fx\medplop_04.wav"			99
+"fx\lilplop_01.wav"			99
+"fx\lilplop_02.wav"			99
+"fx\lilplop_03.wav"			99
+"fx\lilplop_04.wav"			99
+
+"fx\woodhit_01.wav"			28
+"fx\woodhit_02.wav"			28
+"fx\woodhit_03.wav"			28
+"fx\woodhit_04.wav"			28
+"fx\woodhit_05.wav"			28
+"fx\woodhit_06.wav"			28
+"fx\woodhit_07.wav"			28
+"fx\woodhit_08.wav"			28
+
+"fx\metrock_01.wav"			63
+"fx\metrock_02.wav"			63
+"fx\metrock_03.wav"			63
+"fx\metrock_04.wav"			63
+"fx\metrock_05.wav"			63
+"fx\metrock_06.wav"			63
+"fx\metrock_07.wav"			63
+"fx\metrock_08.wav"			63
+
+"fx\ladder_01.wav"			100
+"fx\ladder_02.wav"			100
+"fx\ladder_03.wav"			100
+"fx\ladder_04.wav"			100
+"fx\ladder_05.wav"			100
+"fx\ladder_06.wav"			100
+"fx\ladderbreak_01.wav"			100
+"fx\ladderbreak_02.wav"			100
+"fx\ladderbreak_03.wav"			100
+"fx\ladderbreak_04.wav"			100
+"fx\ladderbreak_05.wav"			100
+"fx\ladderbreak_06.wav"			100
+
+-------Group 29 -- volume = -20 --------------------------------------------
+
+"fx\hit_01.wav"				63
+"fx\hit_02.wav"				63
+"fx\hit_03.wav"				63
+"fx\hit_04.wav"				63
+"fx\hit_05.wav"				63
+"fx\hit_06.wav"				63
+"fx\hit_07.wav"				63
+"fx\hit_08.wav"				63
+"fx\hit_09.wav"				63
+"fx\hit_10.wav"				63
+"fx\hit_11.wav"				63
+"fx\hit_12.wav"				63
+"fx\hit_13.wav"				63
+"fx\hit_14.wav"				63
+"fx\hit_15.wav"				63
+"fx\hit_16.wav"				63
+"fx\hit_17.wav"				63
+"fx\hit_18.wav"				63
+"fx\hit_19.wav"				63
+"fx\hit_20.wav"				63
+"fx\hit_21.wav"				63
+"fx\hit_22.wav"				63
+"fx\hit_23.wav"				63
+"fx\hit_24.wav"				63
+"fx\hit_25.wav"				63
+"fx\hit_26.wav"				63
+"fx\hit_27.wav"				63
+"fx\hit_28.wav"				63
+"fx\hit_29.wav"				63
+"fx\hit_30.wav"				63
+"fx\hit_31.wav"				63
+"fx\hit_32.wav"				63
+"fx\hit_33.wav"				63
+"fx\hit_34.wav"				63
+"fx\hit_35.wav"				63
+"fx\hit_36.wav"				63
+"fx\hit_37.wav"				63
+"fx\hit_38.wav"				63
+"fx\hit_39.wav"				63
+"fx\hit_40.wav"				63
+"fx\hit_41.wav"				63
+"fx\hit_42.wav"				63
+"fx\hit_43.wav"				63
+"fx\hit_44.wav"				63
+"fx\hit_45.wav"				63
+"fx\hit_46.wav"				63
+"fx\hit_47.wav"				63
+"fx\hit_48.wav"				63
+"fx\hit_49.wav"				63
+"fx\hit_50.wav"				63
+"fx\hit_51.wav"				63
+"fx\hit_52.wav"				63
+"fx\hit_53.wav"				63
+"fx\hit_54.wav"				63
+"fx\hit_55.wav"				63
+"fx\hit_56.wav"				63
+"fx\hit_57.wav"				63
+"fx\hit_58.wav"				63
+"fx\hit_59.wav"				63
+"fx\hit_60.wav"				63
+"fx\hit_61.wav"				63
+"fx\hit_62.wav"				63
+"fx\hit_63.wav"				63
+"fx\hit_64.wav"				63
+
+"fx\girlyscream_01.wav"			63
+"fx\girlyscream_02.wav"			63
+"fx\girlyscream_03.wav"			63
+"fx\girlyscream_04.wav"			63
+
+-------Group 30 -- volume = +30 --------------------------------------------
+
+"fx\clubdth_01.wav"			63
+"fx\clubdth_02.wav"			63
+"fx\clubdth_03.wav"			63
+"fx\clubdth_04.wav"			63
+"fx\clubdth_05.wav"			63
+"fx\clubdth_06.wav"			63
+"fx\clubdth_07.wav"			63
+"fx\clubdth_08.wav"			63
+"fx\clubdth_09.wav"			63
+"fx\clubdth_10.wav"			63
+"fx\clubdth_11.wav"			63
+"fx\clubdth_12.wav"			63
+"fx\clubdth_13.wav"			63
+"fx\clubdth_14.wav"			63
+"fx\clubdth_15.wav"			63
+"fx\clubdth_16.wav"			63
+
+"fx\arrwdth_01.wav"			63
+"fx\arrwdth_02.wav"			63
+"fx\arrwdth_03.wav"			63
+"fx\arrwdth_04.wav"			63
+"fx\arrwdth_05.wav"			63
+"fx\arrwdth_06.wav"			63
+"fx\arrwdth_07.wav"			63
+"fx\arrwdth_08.wav"			63
+"fx\arrwdth_09.wav"			63
+"fx\arrwdth_10.wav"			63
+"fx\arrwdth_11.wav"			63
+"fx\arrwdth_12.wav"			63
+"fx\arrwdth_13.wav"			63
+"fx\arrwdth_14.wav"			63
+"fx\arrwdth_15.wav"			63
+"fx\arrwdth_16.wav"			63
+
+"fx\speardth_01.wav"			63
+"fx\speardth_02.wav"			63
+"fx\speardth_03.wav"			63
+"fx\speardth_04.wav"			63
+"fx\speardth_05.wav"			63
+"fx\speardth_06.wav"			63
+"fx\speardth_07.wav"			63
+"fx\speardth_08.wav"			63
+"fx\speardth_09.wav"			63
+"fx\speardth_10.wav"			63
+"fx\speardth_11.wav"			63
+"fx\speardth_12.wav"			63
+"fx\speardth_13.wav"			63
+"fx\speardth_14.wav"			63
+"fx\speardth_15.wav"			63
+"fx\speardth_16.wav"			63
+
+"fx\swdth_01.wav"			63
+"fx\swdth_02.wav"			63
+"fx\swdth_03.wav"			63
+"fx\swdth_04.wav"			63
+"fx\swdth_05.wav"			63
+"fx\swdth_06.wav"			63
+"fx\swdth_07.wav"			63
+"fx\swdth_08.wav"			63
+"fx\swdth_09.wav"			63
+"fx\swdth_10.wav"			63
+"fx\swdth_11.wav"			63
+"fx\swdth_12.wav"			63
+"fx\swdth_13.wav"			63
+"fx\swdth_14.wav"			63
+"fx\swdth_15.wav"			63
+"fx\swdth_16.wav"			63
+
+"fx\girlydie_01.wav"			63
+"fx\girlydie_02.wav"			63
+"fx\girlydie_03.wav"			63
+"fx\girlydie_04.wav"			63
+"fx\girlydie_05.wav"			63
+"fx\girlydie_06.wav"			63
+"fx\girlydie_07.wav"			63
+"fx\girlydie_08.wav"			63
+
+"fx\lorddie_01.wav"			127
+"fx\pigdie_01.wav"			127
+"fx\snakedie_01.wav"			127
+"fx\wolfdie_01.wav"			127
+
+"fx\jesterdie_01.wav"			63
+"fx\jesterdie_02.wav"			63
+"fx\jesterdie_03.wav"			63
+"fx\jesterdie_04.wav"			63
+"fx\jesterdie_05.wav"			63
+"fx\jesterdie_06.wav"			63
+"fx\jesterdie_07.wav"			63
+"fx\jesterdie_08.wav"			63
+
+"fx\splatdeath_01.wav"			95
+"fx\splatdeath_02.wav"			95
+"fx\splatdeath_03.wav"			95
+"fx\splatdeath_04.wav"			95
+"fx\splatdeath_05.wav"			95
+"fx\splatdeath_06.wav"			95
+"fx\splatdeath_07.wav"			95
+"fx\splatdeath_08.wav"			95
+
+"fx\arrowbasic_01.wav"			100
+"fx\arrowbasic_02.wav"			100
+"fx\macebasic_01.wav"			100
+"fx\macebasic_02.wav"			100
+"fx\macebasic_03.wav"			100
+"fx\pikebasic_01.wav"			100
+"fx\pikebasic_02.wav"			100
+"fx\spearbasic_01.wav"			100
+"fx\spearbasic_02.wav"			100
+"fx\swordbasic_01.wav"			100
+"fx\swordbasic_02.wav"			100
+
+-------Group 31 -- volume = 0 --------------------------------------------
+
+
+
+
+
+-------Group 32 -- volume = 0 --------------------------------------------
+
+"fx\button4 22k.wav"			63
+
+"fx\shortsanding 22k.wav"		63
+
+"fx\drop_plank1.wav"			63
+
+"fx\plank1.wav"				63
+"fx\plank2.wav"				63
+"fx\plank3.wav"				63
+"fx\stckfood1.wav"			63
+"fx\stckale1.wav"			63
+"fx\stckhops1.wav"			63
+"fx\stckiron2.wav"			63
+"fx\stckpitch2.wav"			63
+"fx\stckstone1.wav"			63
+"fx\stckweap2.wav"			63
+"fx\stckwheat1.wav"			63
+
+
+-------Group 33 -- volume = 0 --------------------------------------------
+
+"fx\siegeroll1.wav"			63
+"fx\siegeroll2.wav"			63
+"fx\siegeroll3.wav"			63
+"fx\siegeroll4.wav"			63
+
+"fx\ca_load1.wav"			90
+"fx\ca_load2.wav"			63
+"fx\ca_load3.wav"			63
+"fx\ca_fire1.wav"			63
+"fx\ca_fire2.wav"			63
+"fx\ca_fire3.wav"			63
+
+"fx\ma_load1.wav"			63
+"fx\ma_load2.wav"			63
+"fx\ma_load3.wav"			63
+"fx\ma_fire1.wav"			84
+"fx\ma_fire2.wav"			84
+"fx\ma_fire3.wav"			84
+
+"fx\tr_load1.wav"			63
+"fx\tr_load2.wav"			63
+"fx\tr_fire1.wav"			80
+"fx\tr_fire2.wav"			80
+"fx\tr_fire3.wav"			80
+
+"fx\baliscrank_01.wav"			63
+"fx\baliscrank_02.wav"			63
+"fx\baliscrank_03.wav"			63
+"fx\ballistalaunch_01.wav"		63
+"fx\ballistalaunch_02.wav"		63
+"fx\ballistalaunch_03.wav"		63
+
+"fx\swing_01.wav"			63
+"fx\swing_02.wav"			63
+"fx\swing_03.wav"			63
+"fx\swing_04.wav"			63
+"fx\ramhit_01.wav"			83
+"fx\ramhit_02.wav"			83
+"fx\ramhit_03.wav"			83
+
+"fx\trebdie_1.wav"			99
+"fx\trebdie_2.wav"			99
+"fx\siegedie_1.wav"			99
+"fx\siegedie_2.wav"			99
+"fx\siegedie_3.wav"			99
+
+"fx\woodrattle_1.wav"			63
+"fx\woodrattle_2.wav"			63
+"fx\woodrattle_3.wav"			63
+"fx\woodrattle_4.wav"			63
+
+"fx\cowsplat_01.wav"			95
+"fx\flies_01.wav"			80
+"fx\flies_02.wav"			80
+
+"fx\mill.wav"				40
+"fx\inn_01.wav"				60
+"fx\inn_02.wav"				60
+
+"fx\stretch.wav"			70
+"fx\gallows.wav"			70
+"fx\dungeon1.wav"			20
+"fx\dungeon2.wav"			20
+"fx\dungeon3.wav"			20
+"fx\dungeon4.wav"			20
+"fx\gulldive1.wav"			80
+"fx\gulldive2.wav"			80
+"fx\gullsurface1.wav"			80
+"fx\gullsurface2.wav"			80
+"fx\quickbreath1.wav"			45
+"fx\quickbreath2.wav"			45
+"fx\liftchair1.wav"			45
+"fx\dunkchair1.wav"			45
+
+"fx\ghost3.wav"				120
+"fx\girlgrunt1.wav"			80
+"fx\girlgrunt2.wav"			80
+"fx\girlgrunt3.wav"			80
+"fx\girlgrunt4.wav"			80
+"fx\girlgrunt5.wav"			80
+"fx\girlgrunt6.wav"			80
+"fx\girlgrunt7.wav"			80
+"fx\girlgrunt8.wav"			80
+
+"fx\cauldron_01.wav"			50
+
+"fx\fireout1.wav"			80
+"fx\fireout2.wav"			80
+"fx\fireout3.wav"			80
+"fx\firepop1.wav"			80
+"fx\firepop2.wav"			80
+"fx\firepop3.wav"			80
+"fx\firepop4.wav"			80
+"fx\firepop5.wav"			80
+"fx\firepop6.wav"			80
+"fx\firepop7.wav"			80
+"fx\firepop8.wav"			80
+"fx\throwwater1.wav"			80
+"fx\throwwater2.wav"			80
+"fx\throwwater3.wav"			80
+"fx\armycharge1.wav"			80
+"fx\armycharge2.wav"			80
+
+"fx\burnwitch1.wav"			80
+"fx\screamwitch2.wav"			80
+"fx\screamwitch3.wav"			80
+"fx\stocks1.wav"			60
+"fx\stocks2.wav"			60
+"fx\stocks5.wav"			60
+"fx\stocks7.wav"			60
+
+
+-------Group 34 -- volume = 0 --------------------------------------------
+
+"fx\music\astrongspice.raw"		100
+"fx\music\bigloss1.raw"			100
+"fx\music\bigloss2.raw"			100
+"fx\music\bigwin1.raw"			100
+"fx\music\bigwin2.raw"			100
+"fx\music\bigwin3.raw"			100
+"fx\music\caravan_ambient.raw"		100
+"fx\music\caravan.raw"			127
+"fx\music\crusader.raw"			100
+"fx\music\dar meshq.raw"		100
+"fx\music\drumloop1a.raw"		100
+"fx\music\drumloop1b.raw"		100
+"fx\music\drumloop1c.raw"		100
+"fx\music\flt_narr1.raw"		100
+"fx\music\glory_01.raw"			100
+"fx\music\glory_02.raw"			100
+"fx\music\glory_03.raw"			100
+"fx\music\glory_04.raw"			100
+"fx\music\glory_05.raw"			100
+"fx\music\glory_06.raw"			100
+"fx\music\honor_02.raw"			100
+"fx\music\honor_03.raw"			100
+"fx\music\honor_04.raw"			100
+"fx\music\honor_05.raw"			100
+"fx\music\monks1.raw"			100
+"fx\music\oud_01.raw"			75
+"fx\music\oud_02.raw"			75
+"fx\music\oud_03.raw"			75
+"fx\music\oud_04.raw"			75
+"fx\music\oud_05.raw"			75
+"fx\music\oud_06.raw"			75
+"fx\music\oud_07.raw"			75
+"fx\music\oud_08.raw"			75
+"fx\music\oud_09.raw"			75
+"fx\music\oud_10.raw"			75
+"fx\music\oud_11.raw"			75
+"fx\music\oud_12.raw"			75
+"fx\music\oud_13.raw"			75
+"fx\music\oud_14.raw"			75
+"fx\music\oud_15.raw"			75
+"fx\music\oud_16.raw"			75
+"fx\music\oud_17.raw"			75
+"fx\music\oud_18.raw"			75
+"fx\music\oud_19.raw"			75
+"fx\music\oud_20.raw"			75
+"fx\music\oud_21.raw"			75
+"fx\music\oud_22.raw"			75
+"fx\music\oud_23.raw"			75
+"fx\music\oud_24.raw"			75
+"fx\music\percloop1.raw"		100
+"fx\music\sandalmaker.raw"		115
+"fx\music\sand wedgie.raw"		100
+"fx\music\solovln_01.raw"		100
+"fx\music\stainedglass1.raw"		100
+"fx\music\suspense1a.raw"		100
+"fx\music\suspense1b.raw"		100
+"fx\music\suspense2a.raw"		100
+"fx\music\suspense2b.raw"		100
+"fx\music\suspense2c.raw"		100
+"fx\music\cameltoe.raw"			100
+"fx\music\thelastdrop.raw"		100
+"fx\music\trancefusion.raw"		110
+"fx\music\crusader_solo.raw"		65
+"fx\music\flt_01.raw"			80
+"fx\music\flt_02.raw"			80
+"fx\music\flt_03.raw"			80
+"fx\music\flt_04.raw"			80
+"fx\music\flt_05.raw"			80
+"fx\music\flt_06.raw"			80
+"fx\music\flt_07.raw"			80
+"fx\music\flt_08.raw"			80
+"fx\music\flt_09.raw"			80
+"fx\music\flt_10.raw"			80
+"fx\music\flt_11.raw"			80
+"fx\music\flt_12.raw"			80
+"fx\music\flt_13.raw"			80
+"fx\music\flt_14.raw"			80
+"fx\music\flt_15.raw"			80
+"fx\music\flt_16.raw"			80
+"fx\music\flt_17.raw"			80
+"fx\music\flt_18.raw"			80
+"fx\music\flt_19.raw"			80
+
+
+-------Group 35 -- volume = 0 --------------------------------------------
+"fx\firethrow_01.wav"			80
+"fx\firethrow_02.wav"			80
+"fx\firethrow_03.wav"			80
+"fx\slingdth_01.wav"			80
+"fx\slingdth_02.wav"			80
+"fx\slingdth_03.wav"			80
+"fx\slingdth_04.wav"			80
+"fx\slingdth_05.wav"			80
+"fx\slingdth_06.wav"			80
+"fx\slingdth_07.wav"			80
+"fx\slingdth_08.wav"			80
+"fx\slinghit.wav"			80
+"fx\axedeath_01.wav"			80
+"fx\axedeath_02.wav"			80
+"fx\axedeath_03.wav"			80
+"fx\axedeath_04.wav"			80
+"fx\axedeath_03.wav"			80
+"fx\axedeath_04.wav"			80
+"fx\axedeath_05.wav"			80
+"fx\axedeath_06.wav"			80
+"fx\axedeath_07.wav"			80
+"fx\axedeath_08.wav"			80
+"fx\axedeath_09.wav"			80
+"fx\axedeath_10.wav"			80
+"fx\axehit.wav"				80
+"fx\lionat_01.wav"			80
+"fx\lionat_02.wav"			80
+"fx\lionat_03.wav"			80
+"fx\lionat_04.wav"			80
+"fx\liondie_01.wav"			90
+"fx\liondie_02.wav"			90
+"fx\liondie_03.wav"			90
+"fx\liondie_04.wav"			90
+"fx\camdie_01.wav"			90
+"fx\camdie_02.wav"			90
+"fx\camdie_03.wav"			90
+"fx\camdie_04.wav"			90
+"fx\fireballista_01.wav"		80
+"fx\fireballista_02.wav"		80
+"fx\fireballista_03.wav"		80
+"fx\decimate_01.wav"			127
+"fx\armyhorses.wav"			90
+"fx\exitrollover.wav"			90
+"fx\dice.wav"				90
+"fx\skirmish master.wav"		90
+"fx\goldplus2k.wav"			90
+"fx\goldplus4k.wav"			90
+"fx\goldplus8k.wav"			90
+"fx\key.wav"				90	
+
+-------Group 36 -- volume = 0 --------------------------------------------
+"wf_vict1.bik"				35
+"wf_vict2.bik"				45
+"wf_taunt1.bik"				30
+"wf_taunt2.bik"				35
+"wf_plead1.bik"				35
+"wf_anger1.bik"				30
+"ap_milit6.bik"				35
+"ap_milit7.bik"				35
+"ap_milit4.bik"				40
+"ap_milit5.bik"				40
+"ap_milit9.bik"				40
+"ap_milit12.bik"			40
+"rt_taunt1.bik"				40
+"rt_vict1.bik"				40
+"ap_milit1.bik"				40
+"pig_vict1.bik"				40
+"pig_vict2.bik"				40
+"pig_vict3.bik"				40
+"rt_plead3.bik"				75
+"rt_plead2.bik"				40
+"rt_anger1.bik"				40
+"rt_vict2.bik"				40
+"rt_plead1.bik"				40
+"rt_taunt2.bik"				40
+"well_not_everybody.bik"		80
+"st17_bakers_workshop.bik"		80
+"st16_tanners_workshop.bik"		65
+"st15_armourers_workshop.bik"		50
+"st14_poleturners_workshop.bik"		55
+"st12_fletchers_workshop.bik"		127
+"st07_hunters_hut.bik"			80
+"st03_woodcutters_hut.bik"		80
+"action_wolves.bik"			80
+"action_steal_bread.bik"		80
+"action_rabbits.bik"			80
+"action_plague.bik"			80
+"action_mad_cows.bik"			80
+"action_fire.bik"			80
+"st13_blacksmiths_workshop.bik"		55
+"action_apples_die.bik"			80
+"intro.bik"				127
+
+-------END OF FILE--------------------------------------------

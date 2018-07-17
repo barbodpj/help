@@ -1,0 +1,22 @@
+Building BuildCostGold BuildCostElixir BuildTime AttackScoreGained AttackRange UpgradeCost UpgradeTime InitialDamage InitialHealth squareOfDamageRadius
+GoldMine 150 5 300 2 null 100 50 null 200 null
+ElixirMine 100 3 100 2 null 100 50 null 200 null
+GoldStorage 200 0 200 3 null 100 50 null 300 null
+ElixirStorage 200 0 100 3 null 100 50 null 300 null
+TownHall null null 100 8 null 500 50 null 1000 null
+Barracks 200 0 100 1 null 100 50 null 300 null
+Camp 200 0 100 1 null null null null 900 null
+ArcherTower 300 0 60 3 10 100 50 20 300 0
+Cannon 400 0 100 4 13 100 50 20 400 2
+AirDefence 300 0 60 3 10 100 50 20 300 0
+WizardTower 500 0 120 5 13 100 50 20 700 2
+Wall 100 0 20 1 null 100 50 null 100 0
+Trap 100 0 40 1 1 100 50 100 100 0
+GiantsCastle 1000 0 4000 6 1 100 50 60 700 0
+Troop BuildCost BuildTime AttackRange MaxSpeed InitialDamage InitialHealth
+Guardian 50 10 1 2 10 100
+Giant 150 30 1 1 30 500
+Dragon 200 45 3 6 30 700
+Archer 75 10 10 2 10 100
+WallBreaker 40 10 1 6 50 100
+Healer 175 30 10 3 25 200
