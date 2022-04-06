@@ -1,0 +1,424 @@
+{
+    "Pages": [
+        {
+            "FileName": "WL_TXHO171022_WELL #1069-56_D002004746_D002004746-tif-{0}_0.jpg",
+            "LabelMatches": [
+                {
+                    "MainLabel": "company name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 391.0,
+                                "Y": 301.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1131.0,
+                                "Y": 348.0
+                            },
+                            "LabelKeyword": "Company",
+                            "ValueExtracted": " GULF OIL EXPLORATION AND",
+                            "ValueUpperLeft": {
+                                "X": 391.0,
+                                "Y": 301.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1131.0,
+                                "Y": 348.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 609.0,
+                                "Y": 377.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1000.0,
+                                "Y": 411.0
+                            },
+                            "LabelKeyword": "Company",
+                            "ValueExtracted": "WELL",
+                            "ValueUpperLeft": {
+                                "X": 399.0,
+                                "Y": 441.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 507.0,
+                                "Y": 488.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 391.0,
+                                "Y": 301.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1131.0,
+                                "Y": 348.0
+                            },
+                            "LabelKeyword": "company",
+                            "ValueExtracted": " GULF OIL EXPLORATION AND",
+                            "ValueUpperLeft": {
+                                "X": 391.0,
+                                "Y": 301.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1131.0,
+                                "Y": 348.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 609.0,
+                                "Y": 377.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1000.0,
+                                "Y": 411.0
+                            },
+                            "LabelKeyword": "company",
+                            "ValueExtracted": "WELL",
+                            "ValueUpperLeft": {
+                                "X": 399.0,
+                                "Y": 441.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 507.0,
+                                "Y": 488.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "field",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "FIELD",
+                            "LabelUpperLeft": {
+                                "X": 397.0,
+                                "Y": 515.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 496.0,
+                                "Y": 544.0
+                            },
+                            "LabelKeyword": "Field",
+                            "ValueExtracted": "ECTOR",
+                            "ValueUpperLeft": {
+                                "X": 604.0,
+                                "Y": 578.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 727.0,
+                                "Y": 612.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "state",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "STATE",
+                            "LabelUpperLeft": {
+                                "X": 872.0,
+                                "Y": 578.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 980.0,
+                                "Y": 615.0
+                            },
+                            "LabelKeyword": "State",
+                            "ValueExtracted": "COUNTY_",
+                            "ValueUpperLeft": {
+                                "X": 391.0,
+                                "Y": 581.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 571.0,
+                                "Y": 615.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "well name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 399.0,
+                                "Y": 441.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 507.0,
+                                "Y": 488.0
+                            },
+                            "LabelKeyword": "WELL",
+                            "ValueExtracted": "C.A.GOLDSMITH #1069-56",
+                            "ValueUpperLeft": {
+                                "X": 606.0,
+                                "Y": 440.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1128.0,
+                                "Y": 474.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 399.0,
+                                "Y": 441.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 507.0,
+                                "Y": 488.0
+                            },
+                            "LabelKeyword": "well",
+                            "ValueExtracted": "C.A.GOLDSMITH #1069-56",
+                            "ValueUpperLeft": {
+                                "X": 606.0,
+                                "Y": 440.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1128.0,
+                                "Y": 474.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                }
+            ],
+            "ValueMatches": [
+                {
+                    "ValueName": "company name",
+                    "ID": "577603",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.9128709291752769,
+                            "LabelExtracted": "Schlumberger",
+                            "LabelUpperLeft": {
+                                "X": 391.0,
+                                "Y": 301.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1131.0,
+                                "Y": 348.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "COMPANY GULF OIL EXPLORATION AND",
+                            "ValueUpperLeft": {
+                                "X": 239.0,
+                                "Y": 136.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 565.0,
+                                "Y": 197.0
+                            },
+                            "ValueKeyword": "GULF OIL EXPLORATION AND PRODUCTION COMPANY"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "company name",
+                    "ID": "577584",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.7559289460184544,
+                            "LabelExtracted": "NO",
+                            "LabelUpperLeft": {
+                                "X": 2267.0,
+                                "Y": 790.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 2287.0,
+                                "Y": 824.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "R",
+                            "ValueUpperLeft": {
+                                "X": 908.0,
+                                "Y": 748.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 936.0,
+                                "Y": 767.0
+                            },
+                            "ValueKeyword": "R.R.GRAHAMOLOGICAL LIBRARY INC"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "company name",
+                    "ID": "576036",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8164965809277259,
+                            "LabelExtracted": "COMPANY GULF OIL EXPLORATION AND",
+                            "LabelUpperLeft": {
+                                "X": 609.0,
+                                "Y": 377.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1000.0,
+                                "Y": 411.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "PRODUCTION COMPANY",
+                            "ValueUpperLeft": {
+                                "X": 391.0,
+                                "Y": 301.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1131.0,
+                                "Y": 348.0
+                            },
+                            "ValueKeyword": "RANG PRODUCTION COMPANY"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "company name",
+                    "ID": "573600",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "PIPE ANALYSIS LOG",
+                            "LabelUpperLeft": {
+                                "X": 239.0,
+                                "Y": 136.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 565.0,
+                                "Y": 197.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "Schlumberger",
+                            "ValueUpperLeft": {
+                                "X": 750.0,
+                                "Y": 107.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1195.0,
+                                "Y": 167.0
+                            },
+                            "ValueKeyword": "SCHLUMBERGER"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "company name",
+                    "ID": "577578",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8164965809277259,
+                            "LabelExtracted": "COMPANY GULF OIL EXPLORATION AND",
+                            "LabelUpperLeft": {
+                                "X": 609.0,
+                                "Y": 377.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1000.0,
+                                "Y": 411.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "PRODUCTION COMPANY",
+                            "ValueUpperLeft": {
+                                "X": 391.0,
+                                "Y": 301.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1131.0,
+                                "Y": 348.0
+                            },
+                            "ValueKeyword": "YUCCA PRODUCTION COMPANY"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "company name",
+                    "ID": "577584",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8944271909999159,
+                            "LabelExtracted": "NO",
+                            "LabelUpperLeft": {
+                                "X": 2267.0,
+                                "Y": 790.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 2287.0,
+                                "Y": 824.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "R",
+                            "ValueUpperLeft": {
+                                "X": 908.0,
+                                "Y": 748.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 936.0,
+                                "Y": 767.0
+                            },
+                            "ValueKeyword": "R.R.GRAHAMOLOGICAL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "FileName": "WL_TXHO171022_WELL #1069-56_D002004746_D002004746-tif-{0}_1.jpg",
+            "LabelMatches": [],
+            "ValueMatches": [
+                {
+                    "ValueName": "company name",
+                    "ID": "577707",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8944271909999159,
+                            "LabelExtracted": "ECEN",
+                            "LabelUpperLeft": {
+                                "X": 420.0,
+                                "Y": 309.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 437.0,
+                                "Y": 372.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "J",
+                            "ValueUpperLeft": {
+                                "X": 425.0,
+                                "Y": 1447.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 450.0,
+                                "Y": 1533.0
+                            },
+                            "ValueKeyword": "J.J. PERDUCTION"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

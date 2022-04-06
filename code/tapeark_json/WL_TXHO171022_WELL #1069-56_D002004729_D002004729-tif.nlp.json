@@ -1,0 +1,631 @@
+{
+    "Pages": [
+        {
+            "FileName": "WL_TXHO171022_WELL #1069-56_D002004729_D002004729-tif-{0}_0.jpg",
+            "LabelMatches": [
+                {
+                    "MainLabel": "company name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 330.0,
+                                "Y": 340.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 542.0,
+                                "Y": 374.0
+                            },
+                            "LabelKeyword": "Company",
+                            "ValueExtracted": "PRODUCTION COMPANY",
+                            "ValueUpperLeft": {
+                                "X": 560.0,
+                                "Y": 398.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 954.0,
+                                "Y": 432.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 560.0,
+                                "Y": 398.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 954.0,
+                                "Y": 432.0
+                            },
+                            "LabelKeyword": "Company",
+                            "ValueExtracted": "C.A.GOLDSMITH ET AL#1069-56",
+                            "ValueUpperLeft": {
+                                "X": 561.0,
+                                "Y": 458.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1212.0,
+                                "Y": 508.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 330.0,
+                                "Y": 340.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 542.0,
+                                "Y": 374.0
+                            },
+                            "LabelKeyword": "company",
+                            "ValueExtracted": "PRODUCTION COMPANY",
+                            "ValueUpperLeft": {
+                                "X": 560.0,
+                                "Y": 398.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 954.0,
+                                "Y": 432.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 560.0,
+                                "Y": 398.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 954.0,
+                                "Y": 432.0
+                            },
+                            "LabelKeyword": "company",
+                            "ValueExtracted": "C.A.GOLDSMITH ET AL#1069-56",
+                            "ValueUpperLeft": {
+                                "X": 561.0,
+                                "Y": 458.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1212.0,
+                                "Y": 508.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "county name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COUNTY",
+                            "LabelUpperLeft": {
+                                "X": 325.0,
+                                "Y": 607.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 486.0,
+                                "Y": 641.0
+                            },
+                            "LabelKeyword": "County",
+                            "ValueExtracted": "STATE",
+                            "ValueUpperLeft": {
+                                "X": 821.0,
+                                "Y": 607.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 936.0,
+                                "Y": 641.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "date name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "Date",
+                            "LabelUpperLeft": {
+                                "X": 113.0,
+                                "Y": 965.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 194.0,
+                                "Y": 994.0
+                            },
+                            "LabelKeyword": "Date",
+                            "ValueExtracted": "-7-84",
+                            "ValueUpperLeft": {
+                                "X": 370.0,
+                                "Y": 970.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 467.0,
+                                "Y": 1005.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "elevation",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "Elev",
+                            "LabelUpperLeft": {
+                                "X": 785.0,
+                                "Y": 840.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 978.0,
+                                "Y": 871.0
+                            },
+                            "LabelKeyword": "Elev",
+                            "ValueExtracted": " 3211",
+                            "ValueUpperLeft": {
+                                "X": 785.0,
+                                "Y": 840.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 978.0,
+                                "Y": 871.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "Elev",
+                            "LabelUpperLeft": {
+                                "X": 1049.0,
+                                "Y": 837.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1297.0,
+                                "Y": 879.0
+                            },
+                            "LabelKeyword": "Elev",
+                            "ValueExtracted": " K B 3222",
+                            "ValueUpperLeft": {
+                                "X": 1049.0,
+                                "Y": 837.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1297.0,
+                                "Y": 879.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "field",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "FIELD",
+                            "LabelUpperLeft": {
+                                "X": 330.0,
+                                "Y": 542.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 420.0,
+                                "Y": 570.0
+                            },
+                            "LabelKeyword": "Field",
+                            "ValueExtracted": "ECTOR",
+                            "ValueUpperLeft": {
+                                "X": 560.0,
+                                "Y": 602.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 675.0,
+                                "Y": 636.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "location",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "Location",
+                            "LabelUpperLeft": {
+                                "X": 325.0,
+                                "Y": 659.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 448.0,
+                                "Y": 693.0
+                            },
+                            "LabelKeyword": "Location",
+                            "ValueExtracted": "N",
+                            "ValueUpperLeft": {
+                                "X": 258.0,
+                                "Y": 667.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 279.0,
+                                "Y": 699.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "log date",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "Date",
+                            "LabelUpperLeft": {
+                                "X": 113.0,
+                                "Y": 965.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 194.0,
+                                "Y": 994.0
+                            },
+                            "LabelKeyword": "date",
+                            "ValueExtracted": "-7-84",
+                            "ValueUpperLeft": {
+                                "X": 370.0,
+                                "Y": 970.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 467.0,
+                                "Y": 1005.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "logger td",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "DEPTH",
+                            "LabelUpperLeft": {
+                                "X": 82.0,
+                                "Y": 1002.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 476.0,
+                                "Y": 1031.0
+                            },
+                            "LabelKeyword": "DEPTH",
+                            "ValueExtracted": "DRILLER",
+                            "ValueUpperLeft": {
+                                "X": 524.0,
+                                "Y": 1007.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 655.0,
+                                "Y": 1034.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 0.9999999999999998,
+                            "LabelExtracted": "TOTAL DEPTH",
+                            "LabelUpperLeft": {
+                                "X": 82.0,
+                                "Y": 1002.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 476.0,
+                                "Y": 1031.0
+                            },
+                            "LabelKeyword": "total depth",
+                            "ValueExtracted": "DRILLER",
+                            "ValueUpperLeft": {
+                                "X": 524.0,
+                                "Y": 1007.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 655.0,
+                                "Y": 1034.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "state",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "STATE",
+                            "LabelUpperLeft": {
+                                "X": 821.0,
+                                "Y": 607.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 936.0,
+                                "Y": 641.0
+                            },
+                            "LabelKeyword": "State",
+                            "ValueExtracted": "TEXAS",
+                            "ValueUpperLeft": {
+                                "X": 1026.0,
+                                "Y": 604.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1141.0,
+                                "Y": 641.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "top depth",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "TD",
+                            "LabelUpperLeft": {
+                                "X": 1192.0,
+                                "Y": 1484.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1251.0,
+                                "Y": 1512.0
+                            },
+                            "LabelKeyword": "TD",
+                            "ValueExtracted": "HOLE FLUID DATA",
+                            "ValueUpperLeft": {
+                                "X": 233.0,
+                                "Y": 1567.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 496.0,
+                                "Y": 1601.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "well name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 330.0,
+                                "Y": 471.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 420.0,
+                                "Y": 508.0
+                            },
+                            "LabelKeyword": "WELL",
+                            "ValueExtracted": "GOLDSMITH 5600",
+                            "ValueUpperLeft": {
+                                "X": 561.0,
+                                "Y": 531.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 872.0,
+                                "Y": 571.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 330.0,
+                                "Y": 471.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 420.0,
+                                "Y": 508.0
+                            },
+                            "LabelKeyword": "well",
+                            "ValueExtracted": "GOLDSMITH 5600",
+                            "ValueUpperLeft": {
+                                "X": 561.0,
+                                "Y": 531.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 872.0,
+                                "Y": 571.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                }
+            ],
+            "ValueMatches": [
+                {
+                    "ValueName": "company name",
+                    "ID": "577304",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8944271909999159,
+                            "LabelExtracted": "C.A.GOLDSMITH ET AL#1069-56",
+                            "LabelUpperLeft": {
+                                "X": 151.0,
+                                "Y": 471.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 166.0,
+                                "Y": 492.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "E",
+                            "ValueUpperLeft": {
+                                "X": 561.0,
+                                "Y": 458.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1212.0,
+                                "Y": 508.0
+                            },
+                            "ValueKeyword": "E.E. SOREY"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "company name",
+                    "ID": "577603",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8164965809277261,
+                            "LabelExtracted": "TENS(LB..",
+                            "LabelUpperLeft": {
+                                "X": 553.0,
+                                "Y": 330.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1079.0,
+                                "Y": 372.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "GULF OIL EXPLORATION AND",
+                            "ValueUpperLeft": {
+                                "X": 2175.0,
+                                "Y": 212.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 2208.0,
+                                "Y": 408.0
+                            },
+                            "ValueKeyword": "GULF OIL EXPLORATION AND PRODUCTION COMPANY"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "company name",
+                    "ID": "576036",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8164965809277259,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 560.0,
+                                "Y": 398.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 954.0,
+                                "Y": 432.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "PRODUCTION COMPANY",
+                            "ValueUpperLeft": {
+                                "X": 330.0,
+                                "Y": 340.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 542.0,
+                                "Y": 374.0
+                            },
+                            "ValueKeyword": "RANG PRODUCTION COMPANY"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "company name",
+                    "ID": "573600",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "CASING COLLAR LOG AND",
+                            "LabelUpperLeft": {
+                                "X": 192.0,
+                                "Y": 131.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 521.0,
+                                "Y": 181.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "Schlumberger",
+                            "ValueUpperLeft": {
+                                "X": 655.0,
+                                "Y": 81.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1200.0,
+                                "Y": 128.0
+                            },
+                            "ValueKeyword": "SCHLUMBERGER"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "company name",
+                    "ID": "577578",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8164965809277259,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 560.0,
+                                "Y": 398.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 954.0,
+                                "Y": 432.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "PRODUCTION COMPANY",
+                            "ValueUpperLeft": {
+                                "X": 330.0,
+                                "Y": 340.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 542.0,
+                                "Y": 374.0
+                            },
+                            "ValueKeyword": "YUCCA PRODUCTION COMPANY"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "well name",
+                    "ID": "4473283",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.857142857142857,
+                            "LabelExtracted": "PRODUCTION COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 561.0,
+                                "Y": 458.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1212.0,
+                                "Y": 508.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "C A GOLDSMITH ET AL#1069 56",
+                            "ValueUpperLeft": {
+                                "X": 560.0,
+                                "Y": 398.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 954.0,
+                                "Y": 432.0
+                            },
+                            "ValueKeyword": "S. A. GOLDSMITH ET AL #1069-56"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

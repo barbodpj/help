@@ -1,0 +1,754 @@
+{
+    "Pages": [
+        {
+            "FileName": "WL_TXHO176133_H.R. CLAY W.I. #2_D002033086_D002033086-tif-{0}_12.jpg",
+            "LabelMatches": [
+                {
+                    "MainLabel": "base depth",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0000000000000002,
+                            "LabelExtracted": "BTM LOG INTERVAL",
+                            "LabelUpperLeft": {
+                                "X": 1126.0,
+                                "Y": 1480.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1386.0,
+                                "Y": 1521.0
+                            },
+                            "LabelKeyword": "Btm. Log Interval",
+                            "ValueExtracted": "2575",
+                            "ValueUpperLeft": {
+                                "X": 1415.0,
+                                "Y": 1478.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1490.0,
+                                "Y": 1512.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "company name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 143.0,
+                                "Y": 1371.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 629.0,
+                                "Y": 1408.0
+                            },
+                            "LabelKeyword": "Company",
+                            "ValueExtracted": " GULF OIL CORPORATION",
+                            "ValueUpperLeft": {
+                                "X": 143.0,
+                                "Y": 1371.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 629.0,
+                                "Y": 1408.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 143.0,
+                                "Y": 1371.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 629.0,
+                                "Y": 1408.0
+                            },
+                            "LabelKeyword": "company",
+                            "ValueExtracted": " GULF OIL CORPORATION",
+                            "ValueUpperLeft": {
+                                "X": 143.0,
+                                "Y": 1371.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 629.0,
+                                "Y": 1408.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "county name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COUNTY",
+                            "LabelUpperLeft": {
+                                "X": 146.0,
+                                "Y": 1584.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 399.0,
+                                "Y": 1616.0
+                            },
+                            "LabelKeyword": "County",
+                            "ValueExtracted": " HOWARD",
+                            "ValueUpperLeft": {
+                                "X": 146.0,
+                                "Y": 1584.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 399.0,
+                                "Y": 1616.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "date name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "DATE",
+                            "LabelUpperLeft": {
+                                "X": 1126.0,
+                                "Y": 1592.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1193.0,
+                                "Y": 1618.0
+                            },
+                            "LabelKeyword": "Date",
+                            "ValueExtracted": "3-26-68",
+                            "ValueUpperLeft": {
+                                "X": 1404.0,
+                                "Y": 1584.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1541.0,
+                                "Y": 1623.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "log date",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "DATE",
+                            "LabelUpperLeft": {
+                                "X": 1126.0,
+                                "Y": 1592.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1193.0,
+                                "Y": 1618.0
+                            },
+                            "LabelKeyword": "date",
+                            "ValueExtracted": "3-26-68",
+                            "ValueUpperLeft": {
+                                "X": 1404.0,
+                                "Y": 1584.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1541.0,
+                                "Y": 1623.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "logger td",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "DEPTH",
+                            "LabelUpperLeft": {
+                                "X": 584.0,
+                                "Y": 1231.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 651.0,
+                                "Y": 1255.0
+                            },
+                            "LabelKeyword": "DEPTH",
+                            "ValueExtracted": "COMPANY GULF OIL CORPORATION",
+                            "ValueUpperLeft": {
+                                "X": 143.0,
+                                "Y": 1371.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 629.0,
+                                "Y": 1408.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "DEPTH",
+                            "LabelUpperLeft": {
+                                "X": 1128.0,
+                                "Y": 1379.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1282.0,
+                                "Y": 1413.0
+                            },
+                            "LabelKeyword": "DEPTH",
+                            "ValueExtracted": " DRLR",
+                            "ValueUpperLeft": {
+                                "X": 1128.0,
+                                "Y": 1379.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1282.0,
+                                "Y": 1413.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "DEPTH",
+                            "LabelUpperLeft": {
+                                "X": 1128.0,
+                                "Y": 1432.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1344.0,
+                                "Y": 1466.0
+                            },
+                            "LabelKeyword": "DEPTH",
+                            "ValueExtracted": " LOGGER",
+                            "ValueUpperLeft": {
+                                "X": 1128.0,
+                                "Y": 1432.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1344.0,
+                                "Y": 1466.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "sample rate",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "INTERVAL",
+                            "LabelUpperLeft": {
+                                "X": 1126.0,
+                                "Y": 1480.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1386.0,
+                                "Y": 1521.0
+                            },
+                            "LabelKeyword": "interval",
+                            "ValueExtracted": "2575",
+                            "ValueUpperLeft": {
+                                "X": 1415.0,
+                                "Y": 1478.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1490.0,
+                                "Y": 1512.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "uwi",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "API",
+                            "LabelUpperLeft": {
+                                "X": 121.0,
+                                "Y": 1074.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 270.0,
+                                "Y": 1096.0
+                            },
+                            "LabelKeyword": "api",
+                            "ValueExtracted": " GAMMA",
+                            "ValueUpperLeft": {
+                                "X": 121.0,
+                                "Y": 1074.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 270.0,
+                                "Y": 1096.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                }
+            ],
+            "ValueMatches": [
+                {
+                    "ValueName": "company name",
+                    "ID": "575905",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COUNTY HOWARD",
+                            "LabelUpperLeft": {
+                                "X": 557.0,
+                                "Y": 1583.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 616.0,
+                                "Y": 1619.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "TATE",
+                            "ValueUpperLeft": {
+                                "X": 146.0,
+                                "Y": 1584.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 399.0,
+                                "Y": 1616.0
+                            },
+                            "ValueKeyword": "TATE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "FileName": "WL_TXHO176133_H.R. CLAY W.I. #2_D002033086_D002033086-tif-{0}_0.jpg",
+            "LabelMatches": [
+                {
+                    "MainLabel": "company name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 399.0,
+                                "Y": 314.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 825.0,
+                                "Y": 359.0
+                            },
+                            "LabelKeyword": "Company",
+                            "ValueExtracted": " GUL",
+                            "ValueUpperLeft": {
+                                "X": 399.0,
+                                "Y": 314.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 825.0,
+                                "Y": 359.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COMPANY",
+                            "LabelUpperLeft": {
+                                "X": 399.0,
+                                "Y": 314.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 825.0,
+                                "Y": 359.0
+                            },
+                            "LabelKeyword": "company",
+                            "ValueExtracted": " GUL",
+                            "ValueUpperLeft": {
+                                "X": 399.0,
+                                "Y": 314.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 825.0,
+                                "Y": 359.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "county name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COUNTY",
+                            "LabelUpperLeft": {
+                                "X": 402.0,
+                                "Y": 520.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 571.0,
+                                "Y": 552.0
+                            },
+                            "LabelKeyword": "County",
+                            "ValueExtracted": "STATE",
+                            "ValueUpperLeft": {
+                                "X": 1073.0,
+                                "Y": 525.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1222.0,
+                                "Y": 554.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "field",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "FIELD",
+                            "LabelUpperLeft": {
+                                "X": 399.0,
+                                "Y": 455.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 493.0,
+                                "Y": 490.0
+                            },
+                            "LabelKeyword": "Field",
+                            "ValueExtracted": "HOWEDGLASSCOCK",
+                            "ValueUpperLeft": {
+                                "X": 648.0,
+                                "Y": 460.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1093.0,
+                                "Y": 492.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "location",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "LOCATION",
+                            "LabelUpperLeft": {
+                                "X": 402.0,
+                                "Y": 559.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 548.0,
+                                "Y": 594.0
+                            },
+                            "LabelKeyword": "Location",
+                            "ValueExtracted": "Other Service",
+                            "ValueUpperLeft": {
+                                "X": 1340.0,
+                                "Y": 564.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1526.0,
+                                "Y": 589.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "service company",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "Service",
+                            "LabelUpperLeft": {
+                                "X": 1340.0,
+                                "Y": 564.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1526.0,
+                                "Y": 589.0
+                            },
+                            "LabelKeyword": "service",
+                            "ValueExtracted": "50|",
+                            "ValueUpperLeft": {
+                                "X": 657.0,
+                                "Y": 595.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 751.0,
+                                "Y": 610.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "state",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "STATE",
+                            "LabelUpperLeft": {
+                                "X": 1073.0,
+                                "Y": 525.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1222.0,
+                                "Y": 554.0
+                            },
+                            "LabelKeyword": "State",
+                            "ValueExtracted": "TEXAS",
+                            "ValueUpperLeft": {
+                                "X": 1282.0,
+                                "Y": 527.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1379.0,
+                                "Y": 552.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "well name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 404.0,
+                                "Y": 388.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 489.0,
+                                "Y": 423.0
+                            },
+                            "LabelKeyword": "WELL",
+                            "ValueExtracted": "HE CLAYWINO.2",
+                            "ValueUpperLeft": {
+                                "X": 651.0,
+                                "Y": 396.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1226.0,
+                                "Y": 428.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 404.0,
+                                "Y": 388.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 489.0,
+                                "Y": 423.0
+                            },
+                            "LabelKeyword": "well",
+                            "ValueExtracted": "HE CLAYWINO.2",
+                            "ValueUpperLeft": {
+                                "X": 651.0,
+                                "Y": 396.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1226.0,
+                                "Y": 428.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                }
+            ],
+            "ValueMatches": []
+        },
+        {
+            "FileName": "WL_TXHO176133_H.R. CLAY W.I. #2_D002033086_D002033086-tif-{0}_1.jpg",
+            "LabelMatches": [
+                {
+                    "MainLabel": "logger td",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "DEPTH",
+                            "LabelUpperLeft": {
+                                "X": 577.0,
+                                "Y": 481.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 678.0,
+                                "Y": 522.0
+                            },
+                            "LabelKeyword": "DEPTH",
+                            "ValueExtracted": "API GAMMA RAY UNITS",
+                            "ValueUpperLeft": {
+                                "X": 114.0,
+                                "Y": 578.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 487.0,
+                                "Y": 626.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "uwi",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "API",
+                            "LabelUpperLeft": {
+                                "X": 114.0,
+                                "Y": 578.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 487.0,
+                                "Y": 626.0
+                            },
+                            "LabelKeyword": "api",
+                            "ValueExtracted": " GAMMA RAY UNITS",
+                            "ValueUpperLeft": {
+                                "X": 114.0,
+                                "Y": 578.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 487.0,
+                                "Y": 626.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "API",
+                            "LabelUpperLeft": {
+                                "X": 1035.0,
+                                "Y": 590.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1345.0,
+                                "Y": 639.0
+                            },
+                            "LabelKeyword": "api",
+                            "ValueExtracted": " NEUTRON UNITS",
+                            "ValueUpperLeft": {
+                                "X": 1035.0,
+                                "Y": 590.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1345.0,
+                                "Y": 639.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                }
+            ],
+            "ValueMatches": [
+                {
+                    "ValueName": "company name",
+                    "ID": "577304",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8944271909999159,
+                            "LabelExtracted": "API NEUTRON UNITS",
+                            "LabelUpperLeft": {
+                                "X": 1522.0,
+                                "Y": 790.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1534.0,
+                                "Y": 821.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "e",
+                            "ValueUpperLeft": {
+                                "X": 1035.0,
+                                "Y": 590.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1345.0,
+                                "Y": 639.0
+                            },
+                            "ValueKeyword": "E.E. SOREY"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "well name",
+                    "ID": "4473557",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.7559289460184544,
+                            "LabelExtracted": "e",
+                            "LabelUpperLeft": {
+                                "X": 490.0,
+                                "Y": 982.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 517.0,
+                                "Y": 999.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "1",
+                            "ValueUpperLeft": {
+                                "X": 1522.0,
+                                "Y": 790.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1534.0,
+                                "Y": 821.0
+                            },
+                            "ValueKeyword": "A.WEIL SURVEY 1 -1"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "well name",
+                    "ID": "4473553",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.8164965809277261,
+                            "LabelExtracted": "e",
+                            "LabelUpperLeft": {
+                                "X": 490.0,
+                                "Y": 982.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 517.0,
+                                "Y": 999.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "1",
+                            "ValueUpperLeft": {
+                                "X": 1522.0,
+                                "Y": 790.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1534.0,
+                                "Y": 821.0
+                            },
+                            "ValueKeyword": "MOBIL FEE 1 - 1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

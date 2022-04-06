@@ -1,0 +1,1319 @@
+{
+    "Pages": [
+        {
+            "Filename": "WL_TXHO176132_LEAH MCDONALD #1_D002003478_D002003478-tif-{0}_0.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "wlnin",
+                    "ScorePercent": 0.5991507768630981,
+                    "UpperLeft": {
+                        "X": 993.0,
+                        "Y": 39.0
+                    },
+                    "LowerRight": {
+                        "X": 1261.0,
+                        "Y": 102.0
+                    }
+                },
+                {
+                    "Text": "LANE",
+                    "ScorePercent": 0.998816192150116,
+                    "UpperLeft": {
+                        "X": 100.0,
+                        "Y": 60.0
+                    },
+                    "LowerRight": {
+                        "X": 312.0,
+                        "Y": 123.0
+                    }
+                },
+                {
+                    "Text": "OWh",
+                    "ScorePercent": 0.596532940864563,
+                    "UpperLeft": {
+                        "X": 366.0,
+                        "Y": 65.0
+                    },
+                    "LowerRight": {
+                        "X": 504.0,
+                        "Y": 123.0
+                    }
+                },
+                {
+                    "Text": "C",
+                    "ScorePercent": 0.8813444375991821,
+                    "UpperLeft": {
+                        "X": 310.0,
+                        "Y": 76.0
+                    },
+                    "LowerRight": {
+                        "X": 350.0,
+                        "Y": 110.0
+                    }
+                },
+                {
+                    "Text": "68",
+                    "ScorePercent": 0.9981412887573242,
+                    "UpperLeft": {
+                        "X": 531.0,
+                        "Y": 101.0
+                    },
+                    "LowerRight": {
+                        "X": 580.0,
+                        "Y": 121.0
+                    }
+                },
+                {
+                    "Text": "bo",
+                    "ScorePercent": 0.7485777139663696,
+                    "UpperLeft": {
+                        "X": 908.0,
+                        "Y": 110.0
+                    },
+                    "LowerRight": {
+                        "X": 1018.0,
+                        "Y": 212.0
+                    }
+                },
+                {
+                    "Text": "Well Location",
+                    "ScorePercent": 0.9492143392562866,
+                    "UpperLeft": {
+                        "X": 1110.0,
+                        "Y": 233.0
+                    },
+                    "LowerRight": {
+                        "X": 1315.0,
+                        "Y": 259.0
+                    }
+                },
+                {
+                    "Text": "COMPANYGUIE..0TL.CORP",
+                    "ScorePercent": 0.8154683113098145,
+                    "UpperLeft": {
+                        "X": 356.0,
+                        "Y": 249.0
+                    },
+                    "LowerRight": {
+                        "X": 821.0,
+                        "Y": 290.0
+                    }
+                },
+                {
+                    "Text": "RADIATION INTENSITY INCRE",
+                    "ScorePercent": 0.9782745242118835,
+                    "UpperLeft": {
+                        "X": 1783.0,
+                        "Y": 332.0
+                    },
+                    "LowerRight": {
+                        "X": 1822.0,
+                        "Y": 806.0
+                    }
+                },
+                {
+                    "Text": "WELL:..",
+                    "ScorePercent": 0.8845413327217102,
+                    "UpperLeft": {
+                        "X": 350.0,
+                        "Y": 387.0
+                    },
+                    "LowerRight": {
+                        "X": 471.0,
+                        "Y": 421.0
+                    }
+                },
+                {
+                    "Text": "LEAH MCDONALD NO.l",
+                    "ScorePercent": 0.9130043387413025,
+                    "UpperLeft": {
+                        "X": 565.0,
+                        "Y": 385.0
+                    },
+                    "LowerRight": {
+                        "X": 916.0,
+                        "Y": 419.0
+                    }
+                },
+                {
+                    "Text": "NEUTRON",
+                    "ScorePercent": 0.9979748725891113,
+                    "UpperLeft": {
+                        "X": 1625.0,
+                        "Y": 429.0
+                    },
+                    "LowerRight": {
+                        "X": 1668.0,
+                        "Y": 665.0
+                    }
+                },
+                {
+                    "Text": "FIELD..",
+                    "ScorePercent": 0.9051098227500916,
+                    "UpperLeft": {
+                        "X": 350.0,
+                        "Y": 455.0
+                    },
+                    "LowerRight": {
+                        "X": 484.0,
+                        "Y": 489.0
+                    }
+                },
+                {
+                    "Text": "CAPROCK",
+                    "ScorePercent": 0.9916781783103943,
+                    "UpperLeft": {
+                        "X": 565.0,
+                        "Y": 455.0
+                    },
+                    "LowerRight": {
+                        "X": 709.0,
+                        "Y": 489.0
+                    }
+                },
+                {
+                    "Text": "LOCATION...",
+                    "ScorePercent": 0.9261903166770935,
+                    "UpperLeft": {
+                        "X": 350.0,
+                        "Y": 523.0
+                    },
+                    "LowerRight": {
+                        "X": 576.0,
+                        "Y": 557.0
+                    }
+                },
+                {
+                    "Text": "28889F.88.",
+                    "ScorePercent": 0.5352503061294556,
+                    "UpperLeft": {
+                        "X": 555.0,
+                        "Y": 515.0
+                    },
+                    "LowerRight": {
+                        "X": 1069.0,
+                        "Y": 570.0
+                    }
+                },
+                {
+                    "Text": "COUNTY:.",
+                    "ScorePercent": 0.9543841481208801,
+                    "UpperLeft": {
+                        "X": 350.0,
+                        "Y": 589.0
+                    },
+                    "LowerRight": {
+                        "X": 519.0,
+                        "Y": 623.0
+                    }
+                },
+                {
+                    "Text": "LE",
+                    "ScorePercent": 0.9897558689117432,
+                    "UpperLeft": {
+                        "X": 581.0,
+                        "Y": 589.0
+                    },
+                    "LowerRight": {
+                        "X": 606.0,
+                        "Y": 612.0
+                    }
+                },
+                {
+                    "Text": "STATE:N MX..",
+                    "ScorePercent": 0.8385708332061768,
+                    "UpperLeft": {
+                        "X": 847.0,
+                        "Y": 589.0
+                    },
+                    "LowerRight": {
+                        "X": 1080.0,
+                        "Y": 625.0
+                    }
+                },
+                {
+                    "Text": "LOG ZERC",
+                    "ScorePercent": 0.9340977668762207,
+                    "UpperLeft": {
+                        "X": 358.0,
+                        "Y": 659.0
+                    },
+                    "LowerRight": {
+                        "X": 486.0,
+                        "Y": 683.0
+                    }
+                },
+                {
+                    "Text": "DRLG.ZERO",
+                    "ScorePercent": 0.998558759689331,
+                    "UpperLeft": {
+                        "X": 350.0,
+                        "Y": 688.0
+                    },
+                    "LowerRight": {
+                        "X": 517.0,
+                        "Y": 722.0
+                    }
+                },
+                {
+                    "Text": "DATUM..",
+                    "ScorePercent": 0.9331294894218445,
+                    "UpperLeft": {
+                        "X": 430.0,
+                        "Y": 722.0
+                    },
+                    "LowerRight": {
+                        "X": 560.0,
+                        "Y": 756.0
+                    }
+                },
+                {
+                    "Text": "CROUND LEVEI",
+                    "ScorePercent": 0.9300985336303711,
+                    "UpperLeft": {
+                        "X": 563.0,
+                        "Y": 719.0
+                    },
+                    "LowerRight": {
+                        "X": 775.0,
+                        "Y": 748.0
+                    }
+                },
+                {
+                    "Text": "TYPE OF LOG",
+                    "ScorePercent": 0.9936132431030273,
+                    "UpperLeft": {
+                        "X": 74.0,
+                        "Y": 767.0
+                    },
+                    "LowerRight": {
+                        "X": 266.0,
+                        "Y": 803.0
+                    }
+                },
+                {
+                    "Text": "JAMMA RAY",
+                    "ScorePercent": 0.9347006678581238,
+                    "UpperLeft": {
+                        "X": 576.0,
+                        "Y": 772.0
+                    },
+                    "LowerRight": {
+                        "X": 724.0,
+                        "Y": 798.0
+                    }
+                },
+                {
+                    "Text": "RUN NO",
+                    "ScorePercent": 0.9313828945159912,
+                    "UpperLeft": {
+                        "X": 82.0,
+                        "Y": 798.0
+                    },
+                    "LowerRight": {
+                        "X": 192.0,
+                        "Y": 835.0
+                    }
+                },
+                {
+                    "Text": "DAT",
+                    "ScorePercent": 0.7885785102844238,
+                    "UpperLeft": {
+                        "X": 87.0,
+                        "Y": 843.0
+                    },
+                    "LowerRight": {
+                        "X": 136.0,
+                        "Y": 861.0
+                    }
+                },
+                {
+                    "Text": "TOTAL DEPTH (DRILLER)",
+                    "ScorePercent": 0.9597799181938171,
+                    "UpperLeft": {
+                        "X": 79.0,
+                        "Y": 866.0
+                    },
+                    "LowerRight": {
+                        "X": 425.0,
+                        "Y": 900.0
+                    }
+                },
+                {
+                    "Text": "020034",
+                    "ScorePercent": 0.99698805809021,
+                    "UpperLeft": {
+                        "X": 1512.0,
+                        "Y": 858.0
+                    },
+                    "LowerRight": {
+                        "X": 1545.0,
+                        "Y": 979.0
+                    }
+                },
+                {
+                    "Text": "EFFECTIVE DEPTH (DRILLER)",
+                    "ScorePercent": 0.9637988805770874,
+                    "UpperLeft": {
+                        "X": 82.0,
+                        "Y": 905.0
+                    },
+                    "LowerRight": {
+                        "X": 468.0,
+                        "Y": 939.0
+                    }
+                },
+                {
+                    "Text": "TOP OF LOGGED INTERVAL",
+                    "ScorePercent": 0.9702174663543701,
+                    "UpperLeft": {
+                        "X": 82.0,
+                        "Y": 937.0
+                    },
+                    "LowerRight": {
+                        "X": 450.0,
+                        "Y": 971.0
+                    }
+                },
+                {
+                    "Text": "OTTOA",
+                    "ScorePercent": 0.8532794713973999,
+                    "UpperLeft": {
+                        "X": 87.0,
+                        "Y": 979.0
+                    },
+                    "LowerRight": {
+                        "X": 177.0,
+                        "Y": 997.0
+                    }
+                },
+                {
+                    "Text": "HINTERVAL",
+                    "ScorePercent": 0.931739091873169,
+                    "UpperLeft": {
+                        "X": 363.0,
+                        "Y": 979.0
+                    },
+                    "LowerRight": {
+                        "X": 509.0,
+                        "Y": 997.0
+                    }
+                },
+                {
+                    "Text": "YPEO",
+                    "ScorePercent": 0.9916892051696777,
+                    "UpperLeft": {
+                        "X": 87.0,
+                        "Y": 1010.0
+                    },
+                    "LowerRight": {
+                        "X": 174.0,
+                        "Y": 1028.0
+                    }
+                },
+                {
+                    "Text": "ELUID",
+                    "ScorePercent": 0.8728874921798706,
+                    "UpperLeft": {
+                        "X": 192.0,
+                        "Y": 1010.0
+                    },
+                    "LowerRight": {
+                        "X": 281.0,
+                        "Y": 1028.0
+                    }
+                },
+                {
+                    "Text": "IN HOLE",
+                    "ScorePercent": 0.9970858693122864,
+                    "UpperLeft": {
+                        "X": 294.0,
+                        "Y": 1007.0
+                    },
+                    "LowerRight": {
+                        "X": 414.0,
+                        "Y": 1034.0
+                    }
+                },
+                {
+                    "Text": "FLUID LEVE",
+                    "ScorePercent": 0.9889835119247437,
+                    "UpperLeft": {
+                        "X": 84.0,
+                        "Y": 1039.0
+                    },
+                    "LowerRight": {
+                        "X": 235.0,
+                        "Y": 1065.0
+                    }
+                },
+                {
+                    "Text": "MAXIMUM RECORDED TEMP",
+                    "ScorePercent": 0.9769035577774048,
+                    "UpperLeft": {
+                        "X": 85.0,
+                        "Y": 1067.0
+                    },
+                    "LowerRight": {
+                        "X": 458.0,
+                        "Y": 1104.0
+                    }
+                },
+                {
+                    "Text": "SOURCE STRENGTH G TYP",
+                    "ScorePercent": 0.9269295930862427,
+                    "UpperLeft": {
+                        "X": 84.0,
+                        "Y": 1109.0
+                    },
+                    "LowerRight": {
+                        "X": 440.0,
+                        "Y": 1136.0
+                    }
+                },
+                {
+                    "Text": "ENGTH",
+                    "ScorePercent": 0.9990754127502441,
+                    "UpperLeft": {
+                        "X": 87.0,
+                        "Y": 1177.0
+                    },
+                    "LowerRight": {
+                        "X": 184.0,
+                        "Y": 1196.0
+                    }
+                },
+                {
+                    "Text": "DEVICE.",
+                    "ScorePercent": 0.9474209547042847,
+                    "UpperLeft": {
+                        "X": 343.0,
+                        "Y": 1177.0
+                    },
+                    "LowerRight": {
+                        "X": 443.0,
+                        "Y": 1196.0
+                    }
+                },
+                {
+                    "Text": "LIN",
+                    "ScorePercent": 0.8651396632194519,
+                    "UpperLeft": {
+                        "X": 437.0,
+                        "Y": 1177.0
+                    },
+                    "LowerRight": {
+                        "X": 504.0,
+                        "Y": 1196.0
+                    }
+                },
+                {
+                    "Text": "O.D.OF INSTRUMEN",
+                    "ScorePercent": 0.9724239110946655,
+                    "UpperLeft": {
+                        "X": 79.0,
+                        "Y": 1209.0
+                    },
+                    "LowerRight": {
+                        "X": 350.0,
+                        "Y": 1235.0
+                    }
+                },
+                {
+                    "Text": "SES",
+                    "ScorePercent": 0.9958061575889587,
+                    "UpperLeft": {
+                        "X": 1793.0,
+                        "Y": 1245.0
+                    },
+                    "LowerRight": {
+                        "X": 1822.0,
+                        "Y": 1298.0
+                    }
+                },
+                {
+                    "Text": "OGGING",
+                    "ScorePercent": 0.9942212104797363,
+                    "UpperLeft": {
+                        "X": 87.0,
+                        "Y": 1282.0
+                    },
+                    "LowerRight": {
+                        "X": 197.0,
+                        "Y": 1300.0
+                    }
+                },
+                {
+                    "Text": "EED",
+                    "ScorePercent": 0.9871118068695068,
+                    "UpperLeft": {
+                        "X": 243.0,
+                        "Y": 1282.0
+                    },
+                    "LowerRight": {
+                        "X": 297.0,
+                        "Y": 1300.0
+                    }
+                },
+                {
+                    "Text": "ADIATION INTENSITY INCREA",
+                    "ScorePercent": 0.9679989814758301,
+                    "UpperLeft": {
+                        "X": 1775.0,
+                        "Y": 1291.0
+                    },
+                    "LowerRight": {
+                        "X": 1837.0,
+                        "Y": 1755.0
+                    }
+                },
+                {
+                    "Text": "TATIST",
+                    "ScorePercent": 0.9982677102088928,
+                    "UpperLeft": {
+                        "X": 87.0,
+                        "Y": 1313.0
+                    },
+                    "LowerRight": {
+                        "X": 184.0,
+                        "Y": 1332.0
+                    }
+                },
+                {
+                    "Text": "IN",
+                    "ScorePercent": 0.9047871828079224,
+                    "UpperLeft": {
+                        "X": 448.0,
+                        "Y": 1308.0
+                    },
+                    "LowerRight": {
+                        "X": 486.0,
+                        "Y": 1327.0
+                    }
+                },
+                {
+                    "Text": "NST",
+                    "ScorePercent": 0.7308152318000793,
+                    "UpperLeft": {
+                        "X": 107.0,
+                        "Y": 1350.0
+                    },
+                    "LowerRight": {
+                        "X": 169.0,
+                        "Y": 1376.0
+                    }
+                },
+                {
+                    "Text": "GAMMA RAY",
+                    "ScorePercent": 0.9439302086830139,
+                    "UpperLeft": {
+                        "X": 1625.0,
+                        "Y": 1342.0
+                    },
+                    "LowerRight": {
+                        "X": 1668.0,
+                        "Y": 1669.0
+                    }
+                },
+                {
+                    "Text": "ETECTOR CTA",
+                    "ScorePercent": 0.9000672698020935,
+                    "UpperLeft": {
+                        "X": 81.0,
+                        "Y": 1403.0
+                    },
+                    "LowerRight": {
+                        "X": 287.0,
+                        "Y": 1420.0
+                    }
+                },
+                {
+                    "Text": "CRUNO",
+                    "ScorePercent": 0.8404855728149414,
+                    "UpperLeft": {
+                        "X": 640.0,
+                        "Y": 1408.0
+                    },
+                    "LowerRight": {
+                        "X": 709.0,
+                        "Y": 1426.0
+                    }
+                },
+                {
+                    "Text": "RECORDED BY.",
+                    "ScorePercent": 0.9710845351219177,
+                    "UpperLeft": {
+                        "X": 77.0,
+                        "Y": 1434.0
+                    },
+                    "LowerRight": {
+                        "X": 269.0,
+                        "Y": 1468.0
+                    }
+                },
+                {
+                    "Text": "MATO",
+                    "ScorePercent": 0.8985467553138733,
+                    "UpperLeft": {
+                        "X": 578.0,
+                        "Y": 1434.0
+                    },
+                    "LowerRight": {
+                        "X": 647.0,
+                        "Y": 1452.0
+                    }
+                },
+                {
+                    "Text": "MALON",
+                    "ScorePercent": 0.8884369134902954,
+                    "UpperLeft": {
+                        "X": 782.0,
+                        "Y": 1431.0
+                    },
+                    "LowerRight": {
+                        "X": 856.0,
+                        "Y": 1463.0
+                    }
+                },
+                {
+                    "Text": "GAREY",
+                    "ScorePercent": 0.9914900064468384,
+                    "UpperLeft": {
+                        "X": 565.0,
+                        "Y": 1470.0
+                    },
+                    "LowerRight": {
+                        "X": 650.0,
+                        "Y": 1497.0
+                    }
+                },
+                {
+                    "Text": "WITNESSEDB",
+                    "ScorePercent": 0.9979373812675476,
+                    "UpperLeft": {
+                        "X": 74.0,
+                        "Y": 1476.0
+                    },
+                    "LowerRight": {
+                        "X": 269.0,
+                        "Y": 1499.0
+                    }
+                },
+                {
+                    "Text": "GAREY",
+                    "ScorePercent": 0.9172876477241516,
+                    "UpperLeft": {
+                        "X": 747.0,
+                        "Y": 1473.0
+                    },
+                    "LowerRight": {
+                        "X": 842.0,
+                        "Y": 1499.0
+                    }
+                },
+                {
+                    "Text": "WELL RECORD",
+                    "ScorePercent": 0.9707563519477844,
+                    "UpperLeft": {
+                        "X": 563.0,
+                        "Y": 1520.0
+                    },
+                    "LowerRight": {
+                        "X": 808.0,
+                        "Y": 1557.0
+                    }
+                },
+                {
+                    "Text": "BIT SIZE",
+                    "ScorePercent": 0.9399699568748474,
+                    "UpperLeft": {
+                        "X": 179.0,
+                        "Y": 1562.0
+                    },
+                    "LowerRight": {
+                        "X": 292.0,
+                        "Y": 1588.0
+                    }
+                },
+                {
+                    "Text": "WT.-",
+                    "ScorePercent": 0.8100082278251648,
+                    "UpperLeft": {
+                        "X": 471.0,
+                        "Y": 1562.0
+                    },
+                    "LowerRight": {
+                        "X": 568.0,
+                        "Y": 1591.0
+                    }
+                },
+                {
+                    "Text": "FROM WELL RECORD",
+                    "ScorePercent": 0.9845309257507324,
+                    "UpperLeft": {
+                        "X": 670.0,
+                        "Y": 1559.0
+                    },
+                    "LowerRight": {
+                        "X": 959.0,
+                        "Y": 1593.0
+                    }
+                },
+                {
+                    "Text": "RUN",
+                    "ScorePercent": 0.7868151664733887,
+                    "UpperLeft": {
+                        "X": 87.0,
+                        "Y": 1565.0
+                    },
+                    "LowerRight": {
+                        "X": 130.0,
+                        "Y": 1586.0
+                    }
+                },
+                {
+                    "Text": "CASING",
+                    "ScorePercent": 0.9969493746757507,
+                    "UpperLeft": {
+                        "X": 333.0,
+                        "Y": 1565.0
+                    },
+                    "LowerRight": {
+                        "X": 435.0,
+                        "Y": 1583.0
+                    }
+                },
+                {
+                    "Text": "FROM LOG",
+                    "ScorePercent": 0.9678480625152588,
+                    "UpperLeft": {
+                        "X": 1066.0,
+                        "Y": 1562.0
+                    },
+                    "LowerRight": {
+                        "X": 1236.0,
+                        "Y": 1593.0
+                    }
+                },
+                {
+                    "Text": "ONE",
+                    "ScorePercent": 0.9980176091194153,
+                    "UpperLeft": {
+                        "X": 82.0,
+                        "Y": 1604.0
+                    },
+                    "LowerRight": {
+                        "X": 130.0,
+                        "Y": 1633.0
+                    }
+                },
+                {
+                    "Text": "11.",
+                    "ScorePercent": 0.8311429023742676,
+                    "UpperLeft": {
+                        "X": 177.0,
+                        "Y": 1604.0
+                    },
+                    "LowerRight": {
+                        "X": 253.0,
+                        "Y": 1630.0
+                    }
+                },
+                {
+                    "Text": ".TO",
+                    "ScorePercent": 0.8131641745567322,
+                    "UpperLeft": {
+                        "X": 762.0,
+                        "Y": 1604.0
+                    },
+                    "LowerRight": {
+                        "X": 837.0,
+                        "Y": 1643.0
+                    }
+                },
+                {
+                    "Text": "SURPACE..TO..",
+                    "ScorePercent": 0.8728827834129333,
+                    "UpperLeft": {
+                        "X": 988.0,
+                        "Y": 1596.0
+                    },
+                    "LowerRight": {
+                        "X": 1197.0,
+                        "Y": 1644.0
+                    }
+                },
+                {
+                    "Text": "177",
+                    "ScorePercent": 0.7848756909370422,
+                    "UpperLeft": {
+                        "X": 831.0,
+                        "Y": 1607.0
+                    },
+                    "LowerRight": {
+                        "X": 898.0,
+                        "Y": 1633.0
+                    }
+                },
+                {
+                    "Text": "ONE",
+                    "ScorePercent": 0.748082160949707,
+                    "UpperLeft": {
+                        "X": 82.0,
+                        "Y": 1620.0
+                    },
+                    "LowerRight": {
+                        "X": 141.0,
+                        "Y": 1672.0
+                    }
+                },
+                {
+                    "Text": "2a5",
+                    "ScorePercent": 0.8077548146247864,
+                    "UpperLeft": {
+                        "X": 430.0,
+                        "Y": 1625.0
+                    },
+                    "LowerRight": {
+                        "X": 558.0,
+                        "Y": 1669.0
+                    }
+                },
+                {
+                    "Text": "SURFACE.TO.",
+                    "ScorePercent": 0.9587169885635376,
+                    "UpperLeft": {
+                        "X": 1000.0,
+                        "Y": 1638.0
+                    },
+                    "LowerRight": {
+                        "X": 1182.0,
+                        "Y": 1672.0
+                    }
+                },
+                {
+                    "Text": ".TO",
+                    "ScorePercent": 0.8947094082832336,
+                    "UpperLeft": {
+                        "X": 770.0,
+                        "Y": 1645.0
+                    },
+                    "LowerRight": {
+                        "X": 829.0,
+                        "Y": 1665.0
+                    }
+                },
+                {
+                    "Text": "22",
+                    "ScorePercent": 0.703291654586792,
+                    "UpperLeft": {
+                        "X": 1228.0,
+                        "Y": 1638.0
+                    },
+                    "LowerRight": {
+                        "X": 1261.0,
+                        "Y": 1672.0
+                    }
+                },
+                {
+                    "Text": "2920.TO..",
+                    "ScorePercent": 0.9148337244987488,
+                    "UpperLeft": {
+                        "X": 994.0,
+                        "Y": 1663.0
+                    },
+                    "LowerRight": {
+                        "X": 1194.0,
+                        "Y": 1709.0
+                    }
+                },
+                {
+                    "Text": "Jo",
+                    "ScorePercent": 0.6641160845756531,
+                    "UpperLeft": {
+                        "X": 780.0,
+                        "Y": 1680.0
+                    },
+                    "LowerRight": {
+                        "X": 819.0,
+                        "Y": 1698.0
+                    }
+                },
+                {
+                    "Text": "TC",
+                    "ScorePercent": 0.8650542497634888,
+                    "UpperLeft": {
+                        "X": 1136.0,
+                        "Y": 1711.0
+                    },
+                    "LowerRight": {
+                        "X": 1167.0,
+                        "Y": 1729.0
+                    }
+                }
+            ]
+        },
+        {
+            "Filename": "WL_TXHO176132_LEAH MCDONALD #1_D002003478_D002003478-tif-{0}_7.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "CDONALDIN",
+                    "ScorePercent": 0.9923932552337646,
+                    "UpperLeft": {
+                        "X": 348.0,
+                        "Y": 596.0
+                    },
+                    "LowerRight": {
+                        "X": 604.0,
+                        "Y": 622.0
+                    }
+                },
+                {
+                    "Text": "CLCALIBR",
+                    "ScorePercent": 0.8644059896469116,
+                    "UpperLeft": {
+                        "X": 403.0,
+                        "Y": 2372.0
+                    },
+                    "LowerRight": {
+                        "X": 536.0,
+                        "Y": 2389.0
+                    }
+                },
+                {
+                    "Text": "NETER LOG",
+                    "ScorePercent": 0.9046638011932373,
+                    "UpperLeft": {
+                        "X": 390.0,
+                        "Y": 2407.0
+                    },
+                    "LowerRight": {
+                        "X": 536.0,
+                        "Y": 2433.0
+                    }
+                }
+            ]
+        },
+        {
+            "Filename": "WL_TXHO176132_LEAH MCDONALD #1_D002003478_D002003478-tif-{0}_9.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "TAT.AT2791",
+                    "ScorePercent": 0.9146252870559692,
+                    "UpperLeft": {
+                        "X": 301.0,
+                        "Y": 1443.0
+                    },
+                    "LowerRight": {
+                        "X": 560.0,
+                        "Y": 1476.0
+                    }
+                },
+                {
+                    "Text": "STATAT 2800",
+                    "ScorePercent": 0.9243133068084717,
+                    "UpperLeft": {
+                        "X": 727.0,
+                        "Y": 1440.0
+                    },
+                    "LowerRight": {
+                        "X": 1013.0,
+                        "Y": 1474.0
+                    }
+                },
+                {
+                    "Text": "L.O",
+                    "ScorePercent": 0.6144700646400452,
+                    "UpperLeft": {
+                        "X": 740.0,
+                        "Y": 1512.0
+                    },
+                    "LowerRight": {
+                        "X": 788.0,
+                        "Y": 1532.0
+                    }
+                },
+                {
+                    "Text": "SEC",
+                    "ScorePercent": 0.9913592338562012,
+                    "UpperLeft": {
+                        "X": 853.0,
+                        "Y": 1507.0
+                    },
+                    "LowerRight": {
+                        "X": 942.0,
+                        "Y": 1535.0
+                    }
+                },
+                {
+                    "Text": "REPEA",
+                    "ScorePercent": 0.9880846738815308,
+                    "UpperLeft": {
+                        "X": 460.0,
+                        "Y": 2244.0
+                    },
+                    "LowerRight": {
+                        "X": 594.0,
+                        "Y": 2277.0
+                    }
+                },
+                {
+                    "Text": "EC",
+                    "ScorePercent": 0.9967990517616272,
+                    "UpperLeft": {
+                        "X": 662.0,
+                        "Y": 2246.0
+                    },
+                    "LowerRight": {
+                        "X": 722.0,
+                        "Y": 2272.0
+                    }
+                },
+                {
+                    "Text": "TTON",
+                    "ScorePercent": 0.9531795978546143,
+                    "UpperLeft": {
+                        "X": 712.0,
+                        "Y": 2241.0
+                    },
+                    "LowerRight": {
+                        "X": 835.0,
+                        "Y": 2277.0
+                    }
+                }
+            ]
+        },
+        {
+            "Filename": "WL_TXHO176132_LEAH MCDONALD #1_D002003478_D002003478-tif-{0}_8.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "ADIATION UNITSOFCALIBISTD.",
+                    "ScorePercent": 0.9544569253921509,
+                    "UpperLeft": {
+                        "X": 233.0,
+                        "Y": 13.0
+                    },
+                    "LowerRight": {
+                        "X": 686.0,
+                        "Y": 38.0
+                    }
+                },
+                {
+                    "Text": "22T",
+                    "ScorePercent": 0.6465246081352234,
+                    "UpperLeft": {
+                        "X": 746.0,
+                        "Y": 18.0
+                    },
+                    "LowerRight": {
+                        "X": 798.0,
+                        "Y": 36.0
+                    }
+                }
+            ]
+        },
+        {
+            "Filename": "WL_TXHO176132_LEAH MCDONALD #1_D002003478_D002003478-tif-{0}_6.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "C.D",
+                    "ScorePercent": 0.9585315585136414,
+                    "UpperLeft": {
+                        "X": 372.0,
+                        "Y": 146.0
+                    },
+                    "LowerRight": {
+                        "X": 434.0,
+                        "Y": 171.0
+                    }
+                },
+                {
+                    "Text": "12R.",
+                    "ScorePercent": 0.8539209365844727,
+                    "UpperLeft": {
+                        "X": 126.0,
+                        "Y": 238.0
+                    },
+                    "LowerRight": {
+                        "X": 215.0,
+                        "Y": 264.0
+                    }
+                },
+                {
+                    "Text": "NMM",
+                    "ScorePercent": 0.6380558609962463,
+                    "UpperLeft": {
+                        "X": 215.0,
+                        "Y": 1098.0
+                    },
+                    "LowerRight": {
+                        "X": 277.0,
+                        "Y": 1315.0
+                    }
+                }
+            ]
+        },
+        {
+            "Filename": "WL_TXHO176132_LEAH MCDONALD #1_D002003478_D002003478-tif-{0}_1.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "4500EI",
+                    "ScorePercent": 0.9186568260192871,
+                    "UpperLeft": {
+                        "X": 748.0,
+                        "Y": 1087.0
+                    },
+                    "LowerRight": {
+                        "X": 895.0,
+                        "Y": 1121.0
+                    }
+                },
+                {
+                    "Text": "1050E.U",
+                    "ScorePercent": 0.9423767328262329,
+                    "UpperLeft": {
+                        "X": 756.0,
+                        "Y": 1138.0
+                    },
+                    "LowerRight": {
+                        "X": 905.0,
+                        "Y": 1164.0
+                    }
+                },
+                {
+                    "Text": "MM",
+                    "ScorePercent": 0.8805317878723145,
+                    "UpperLeft": {
+                        "X": 1068.0,
+                        "Y": 2079.0
+                    },
+                    "LowerRight": {
+                        "X": 1117.0,
+                        "Y": 2229.0
+                    }
+                }
+            ]
+        },
+        {
+            "Filename": "WL_TXHO176132_LEAH MCDONALD #1_D002003478_D002003478-tif-{0}_10.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "WWITWMML",
+                    "ScorePercent": 0.5261726379394531,
+                    "UpperLeft": {
+                        "X": 193.0,
+                        "Y": 999.0
+                    },
+                    "LowerRight": {
+                        "X": 315.0,
+                        "Y": 1580.0
+                    }
+                },
+                {
+                    "Text": "VVY",
+                    "ScorePercent": 0.663335382938385,
+                    "UpperLeft": {
+                        "X": 222.0,
+                        "Y": 1650.0
+                    },
+                    "LowerRight": {
+                        "X": 246.0,
+                        "Y": 1794.0
+                    }
+                },
+                {
+                    "Text": "RES",
+                    "ScorePercent": 0.9017537236213684,
+                    "UpperLeft": {
+                        "X": 926.0,
+                        "Y": 2054.0
+                    },
+                    "LowerRight": {
+                        "X": 976.0,
+                        "Y": 2072.0
+                    }
+                },
+                {
+                    "Text": "T050E.U",
+                    "ScorePercent": 0.8828596472740173,
+                    "UpperLeft": {
+                        "X": 767.0,
+                        "Y": 2093.0
+                    },
+                    "LowerRight": {
+                        "X": 895.0,
+                        "Y": 2118.0
+                    }
+                },
+                {
+                    "Text": "050E.t",
+                    "ScorePercent": 0.96834397315979,
+                    "UpperLeft": {
+                        "X": 1693.0,
+                        "Y": 2095.0
+                    },
+                    "LowerRight": {
+                        "X": 1803.0,
+                        "Y": 2126.0
+                    }
+                }
+            ]
+        }
+    ]
+}

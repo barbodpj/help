@@ -1,0 +1,763 @@
+{
+    "Pages": [
+        {
+            "FileName": "WL_TXHO176132_LEAH MCDONALD #1_D002003478_D002003478-tif-{0}_0.jpg",
+            "LabelMatches": [
+                {
+                    "MainLabel": "county name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "COUNTY",
+                            "LabelUpperLeft": {
+                                "X": 350.0,
+                                "Y": 589.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 519.0,
+                                "Y": 623.0
+                            },
+                            "LabelKeyword": "County",
+                            "ValueExtracted": "LE",
+                            "ValueUpperLeft": {
+                                "X": 581.0,
+                                "Y": 589.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 606.0,
+                                "Y": 612.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "field",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "FIELD",
+                            "LabelUpperLeft": {
+                                "X": 350.0,
+                                "Y": 455.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 484.0,
+                                "Y": 489.0
+                            },
+                            "LabelKeyword": "Field",
+                            "ValueExtracted": "CAPROCK",
+                            "ValueUpperLeft": {
+                                "X": 565.0,
+                                "Y": 455.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 709.0,
+                                "Y": 489.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "location",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "Location",
+                            "LabelUpperLeft": {
+                                "X": 1110.0,
+                                "Y": 233.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1315.0,
+                                "Y": 259.0
+                            },
+                            "LabelKeyword": "Location",
+                            "ValueExtracted": "COMPANYGUIE..0TL.CORP",
+                            "ValueUpperLeft": {
+                                "X": 356.0,
+                                "Y": 249.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 821.0,
+                                "Y": 290.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "LOCATION",
+                            "LabelUpperLeft": {
+                                "X": 350.0,
+                                "Y": 523.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 576.0,
+                                "Y": 557.0
+                            },
+                            "LabelKeyword": "Location",
+                            "ValueExtracted": "28889F.88.",
+                            "ValueUpperLeft": {
+                                "X": 555.0,
+                                "Y": 515.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1069.0,
+                                "Y": 570.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "log type",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0000000000000002,
+                            "LabelExtracted": "TYPE OF LOG",
+                            "LabelUpperLeft": {
+                                "X": 74.0,
+                                "Y": 767.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 266.0,
+                                "Y": 803.0
+                            },
+                            "LabelKeyword": "TYPE OF LOG",
+                            "ValueExtracted": "JAMMA RAY",
+                            "ValueUpperLeft": {
+                                "X": 576.0,
+                                "Y": 772.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 724.0,
+                                "Y": 798.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "logger td",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "DEPTH",
+                            "LabelUpperLeft": {
+                                "X": 79.0,
+                                "Y": 866.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 425.0,
+                                "Y": 900.0
+                            },
+                            "LabelKeyword": "DEPTH",
+                            "ValueExtracted": " (DRILLER)",
+                            "ValueUpperLeft": {
+                                "X": 79.0,
+                                "Y": 866.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 425.0,
+                                "Y": 900.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "DEPTH",
+                            "LabelUpperLeft": {
+                                "X": 82.0,
+                                "Y": 905.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 468.0,
+                                "Y": 939.0
+                            },
+                            "LabelKeyword": "DEPTH",
+                            "ValueExtracted": " (DRILLER)",
+                            "ValueUpperLeft": {
+                                "X": 82.0,
+                                "Y": 905.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 468.0,
+                                "Y": 939.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 0.9999999999999998,
+                            "LabelExtracted": "DEPTH (DRILLER)",
+                            "LabelUpperLeft": {
+                                "X": 79.0,
+                                "Y": 866.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 425.0,
+                                "Y": 900.0
+                            },
+                            "LabelKeyword": "Depth Driller",
+                            "ValueExtracted": "020034",
+                            "ValueUpperLeft": {
+                                "X": 1512.0,
+                                "Y": 858.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1545.0,
+                                "Y": 979.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 0.9999999999999998,
+                            "LabelExtracted": "DEPTH (DRILLER)",
+                            "LabelUpperLeft": {
+                                "X": 82.0,
+                                "Y": 905.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 468.0,
+                                "Y": 939.0
+                            },
+                            "LabelKeyword": "Depth Driller",
+                            "ValueExtracted": "TOP OF LOGGED INTERVAL",
+                            "ValueUpperLeft": {
+                                "X": 82.0,
+                                "Y": 937.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 450.0,
+                                "Y": 971.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0000000000000002,
+                            "LabelExtracted": "TOTAL DEPTH (DRILLER)",
+                            "LabelUpperLeft": {
+                                "X": 79.0,
+                                "Y": 866.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 425.0,
+                                "Y": 900.0
+                            },
+                            "LabelKeyword": "Total Depth--driller",
+                            "ValueExtracted": "020034",
+                            "ValueUpperLeft": {
+                                "X": 1512.0,
+                                "Y": 858.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1545.0,
+                                "Y": 979.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 0.9999999999999998,
+                            "LabelExtracted": "TOTAL DEPTH",
+                            "LabelUpperLeft": {
+                                "X": 79.0,
+                                "Y": 866.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 425.0,
+                                "Y": 900.0
+                            },
+                            "LabelKeyword": "total depth",
+                            "ValueExtracted": " (DRILLER)",
+                            "ValueUpperLeft": {
+                                "X": 79.0,
+                                "Y": 866.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 425.0,
+                                "Y": 900.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 0.9999999999999998,
+                            "LabelExtracted": "DEPTH (DRILLER)",
+                            "LabelUpperLeft": {
+                                "X": 79.0,
+                                "Y": 866.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 425.0,
+                                "Y": 900.0
+                            },
+                            "LabelKeyword": "driller depth",
+                            "ValueExtracted": "020034",
+                            "ValueUpperLeft": {
+                                "X": 1512.0,
+                                "Y": 858.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1545.0,
+                                "Y": 979.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 0.9999999999999998,
+                            "LabelExtracted": "DEPTH (DRILLER)",
+                            "LabelUpperLeft": {
+                                "X": 82.0,
+                                "Y": 905.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 468.0,
+                                "Y": 939.0
+                            },
+                            "LabelKeyword": "driller depth",
+                            "ValueExtracted": "TOP OF LOGGED INTERVAL",
+                            "ValueUpperLeft": {
+                                "X": 82.0,
+                                "Y": 937.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 450.0,
+                                "Y": 971.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0000000000000002,
+                            "LabelExtracted": "TOTAL DEPTH (DRILLER)",
+                            "LabelUpperLeft": {
+                                "X": 79.0,
+                                "Y": 866.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 425.0,
+                                "Y": 900.0
+                            },
+                            "LabelKeyword": "driller total depth",
+                            "ValueExtracted": "020034",
+                            "ValueUpperLeft": {
+                                "X": 1512.0,
+                                "Y": 858.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1545.0,
+                                "Y": 979.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "run number",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.9999999999999998,
+                            "LabelExtracted": "RUN NO",
+                            "LabelUpperLeft": {
+                                "X": 82.0,
+                                "Y": 798.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 192.0,
+                                "Y": 835.0
+                            },
+                            "LabelKeyword": "Run No.",
+                            "ValueExtracted": "DAT",
+                            "ValueUpperLeft": {
+                                "X": 87.0,
+                                "Y": 843.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 136.0,
+                                "Y": 861.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "sample rate",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "INTERVAL",
+                            "LabelUpperLeft": {
+                                "X": 82.0,
+                                "Y": 937.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 450.0,
+                                "Y": 971.0
+                            },
+                            "LabelKeyword": "interval",
+                            "ValueExtracted": "OTTOA",
+                            "ValueUpperLeft": {
+                                "X": 87.0,
+                                "Y": 979.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 177.0,
+                                "Y": 997.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "state",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "STATE",
+                            "LabelUpperLeft": {
+                                "X": 847.0,
+                                "Y": 589.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1080.0,
+                                "Y": 625.0
+                            },
+                            "LabelKeyword": "State",
+                            "ValueExtracted": " N MX",
+                            "ValueUpperLeft": {
+                                "X": 847.0,
+                                "Y": 589.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1080.0,
+                                "Y": 625.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "top depth",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "TOP OF LOGGED INTERVAL",
+                            "LabelUpperLeft": {
+                                "X": 82.0,
+                                "Y": 937.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 450.0,
+                                "Y": 971.0
+                            },
+                            "LabelKeyword": "TOP OF LOGGED INTERVAL",
+                            "ValueExtracted": "OTTOA",
+                            "ValueUpperLeft": {
+                                "X": 87.0,
+                                "Y": 979.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 177.0,
+                                "Y": 997.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0000000000000002,
+                            "LabelExtracted": "TOTAL DEPTH (DRILLER)",
+                            "LabelUpperLeft": {
+                                "X": 79.0,
+                                "Y": 866.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 425.0,
+                                "Y": 900.0
+                            },
+                            "LabelKeyword": "TOTAL DEPTH (DRILLER)",
+                            "ValueExtracted": "020034",
+                            "ValueUpperLeft": {
+                                "X": 1512.0,
+                                "Y": 858.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1545.0,
+                                "Y": 979.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "TOP",
+                            "LabelUpperLeft": {
+                                "X": 82.0,
+                                "Y": 937.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 450.0,
+                                "Y": 971.0
+                            },
+                            "LabelKeyword": "top",
+                            "ValueExtracted": " OF LOGGED INTERVAL",
+                            "ValueUpperLeft": {
+                                "X": 82.0,
+                                "Y": 937.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 450.0,
+                                "Y": 971.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                },
+                {
+                    "MainLabel": "well name",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "Well",
+                            "LabelUpperLeft": {
+                                "X": 1110.0,
+                                "Y": 233.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1315.0,
+                                "Y": 259.0
+                            },
+                            "LabelKeyword": "WELL",
+                            "ValueExtracted": " Location",
+                            "ValueUpperLeft": {
+                                "X": 1110.0,
+                                "Y": 233.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1315.0,
+                                "Y": 259.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 350.0,
+                                "Y": 387.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 471.0,
+                                "Y": 421.0
+                            },
+                            "LabelKeyword": "WELL",
+                            "ValueExtracted": "LEAH MCDONALD NO.l",
+                            "ValueUpperLeft": {
+                                "X": 565.0,
+                                "Y": 385.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 916.0,
+                                "Y": 419.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 563.0,
+                                "Y": 1520.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 808.0,
+                                "Y": 1557.0
+                            },
+                            "LabelKeyword": "WELL",
+                            "ValueExtracted": " RECORD",
+                            "ValueUpperLeft": {
+                                "X": 563.0,
+                                "Y": 1520.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 808.0,
+                                "Y": 1557.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 670.0,
+                                "Y": 1559.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 959.0,
+                                "Y": 1593.0
+                            },
+                            "LabelKeyword": "WELL",
+                            "ValueExtracted": " RECORD",
+                            "ValueUpperLeft": {
+                                "X": 670.0,
+                                "Y": 1559.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 959.0,
+                                "Y": 1593.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "Well",
+                            "LabelUpperLeft": {
+                                "X": 1110.0,
+                                "Y": 233.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 1315.0,
+                                "Y": 259.0
+                            },
+                            "LabelKeyword": "well",
+                            "ValueExtracted": " Location",
+                            "ValueUpperLeft": {
+                                "X": 1110.0,
+                                "Y": 233.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 1315.0,
+                                "Y": 259.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 350.0,
+                                "Y": 387.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 471.0,
+                                "Y": 421.0
+                            },
+                            "LabelKeyword": "well",
+                            "ValueExtracted": "LEAH MCDONALD NO.l",
+                            "ValueUpperLeft": {
+                                "X": 565.0,
+                                "Y": 385.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 916.0,
+                                "Y": 419.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 563.0,
+                                "Y": 1520.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 808.0,
+                                "Y": 1557.0
+                            },
+                            "LabelKeyword": "well",
+                            "ValueExtracted": " RECORD",
+                            "ValueUpperLeft": {
+                                "X": 563.0,
+                                "Y": 1520.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 808.0,
+                                "Y": 1557.0
+                            },
+                            "ValueKeyword": ""
+                        },
+                        {
+                            "ScorePercent": 1.0,
+                            "LabelExtracted": "WELL",
+                            "LabelUpperLeft": {
+                                "X": 670.0,
+                                "Y": 1559.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 959.0,
+                                "Y": 1593.0
+                            },
+                            "LabelKeyword": "well",
+                            "ValueExtracted": " RECORD",
+                            "ValueUpperLeft": {
+                                "X": 670.0,
+                                "Y": 1559.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 959.0,
+                                "Y": 1593.0
+                            },
+                            "ValueKeyword": ""
+                        }
+                    ]
+                }
+            ],
+            "ValueMatches": [
+                {
+                    "ValueName": "well name",
+                    "ID": "4473421",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.7559289460184544,
+                            "LabelExtracted": "OWh",
+                            "LabelUpperLeft": {
+                                "X": 310.0,
+                                "Y": 76.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 350.0,
+                                "Y": 110.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "C",
+                            "ValueUpperLeft": {
+                                "X": 366.0,
+                                "Y": 65.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 504.0,
+                                "Y": 123.0
+                            },
+                            "ValueKeyword": "C W HAHL C-8"
+                        }
+                    ]
+                },
+                {
+                    "ValueName": "well name",
+                    "ID": "4473562",
+                    "MatchResults": [
+                        {
+                            "ScorePercent": 0.7559289460184544,
+                            "LabelExtracted": "OWh",
+                            "LabelUpperLeft": {
+                                "X": 310.0,
+                                "Y": 76.0
+                            },
+                            "LabelLowerRight": {
+                                "X": 350.0,
+                                "Y": 110.0
+                            },
+                            "LabelKeyword": "",
+                            "ValueExtracted": "C",
+                            "ValueUpperLeft": {
+                                "X": 366.0,
+                                "Y": 65.0
+                            },
+                            "ValueLowerRight": {
+                                "X": 504.0,
+                                "Y": 123.0
+                            },
+                            "ValueKeyword": "C.W. HAHL-C-1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

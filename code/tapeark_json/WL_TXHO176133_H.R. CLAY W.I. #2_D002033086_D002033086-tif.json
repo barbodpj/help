@@ -1,0 +1,1316 @@
+{
+    "Pages": [
+        {
+            "Filename": "WL_TXHO176133_H.R. CLAY W.I. #2_D002033086_D002033086-tif-{0}_12.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "API GAMMA",
+                    "ScorePercent": 0.9058268070220947,
+                    "UpperLeft": {
+                        "X": 121.0,
+                        "Y": 1074.0
+                    },
+                    "LowerRight": {
+                        "X": 270.0,
+                        "Y": 1096.0
+                    }
+                },
+                {
+                    "Text": "RAYUNITS",
+                    "ScorePercent": 0.9449771046638489,
+                    "UpperLeft": {
+                        "X": 282.0,
+                        "Y": 1079.0
+                    },
+                    "LowerRight": {
+                        "X": 421.0,
+                        "Y": 1096.0
+                    }
+                },
+                {
+                    "Text": "DEPTH",
+                    "ScorePercent": 0.9906967878341675,
+                    "UpperLeft": {
+                        "X": 584.0,
+                        "Y": 1231.0
+                    },
+                    "LowerRight": {
+                        "X": 651.0,
+                        "Y": 1255.0
+                    }
+                },
+                {
+                    "Text": "COMPANY GULF OIL CORPORATION",
+                    "ScorePercent": 0.9735745787620544,
+                    "UpperLeft": {
+                        "X": 143.0,
+                        "Y": 1371.0
+                    },
+                    "LowerRight": {
+                        "X": 629.0,
+                        "Y": 1408.0
+                    }
+                },
+                {
+                    "Text": "DEPTH DRLR",
+                    "ScorePercent": 0.9959564208984375,
+                    "UpperLeft": {
+                        "X": 1128.0,
+                        "Y": 1379.0
+                    },
+                    "LowerRight": {
+                        "X": 1282.0,
+                        "Y": 1413.0
+                    }
+                },
+                {
+                    "Text": "2585",
+                    "ScorePercent": 0.9984585642814636,
+                    "UpperLeft": {
+                        "X": 1415.0,
+                        "Y": 1376.0
+                    },
+                    "LowerRight": {
+                        "X": 1492.0,
+                        "Y": 1413.0
+                    }
+                },
+                {
+                    "Text": "DEPTH LOGGER_",
+                    "ScorePercent": 0.971892237663269,
+                    "UpperLeft": {
+                        "X": 1128.0,
+                        "Y": 1432.0
+                    },
+                    "LowerRight": {
+                        "X": 1344.0,
+                        "Y": 1466.0
+                    }
+                },
+                {
+                    "Text": "255",
+                    "ScorePercent": 0.6864345669746399,
+                    "UpperLeft": {
+                        "X": 1415.0,
+                        "Y": 1425.0
+                    },
+                    "LowerRight": {
+                        "X": 1495.0,
+                        "Y": 1461.0
+                    }
+                },
+                {
+                    "Text": "H.R.CLAYW.1NO.2",
+                    "ScorePercent": 0.9310157895088196,
+                    "UpperLeft": {
+                        "X": 282.0,
+                        "Y": 1475.0
+                    },
+                    "LowerRight": {
+                        "X": 668.0,
+                        "Y": 1514.0
+                    }
+                },
+                {
+                    "Text": "WELl_",
+                    "ScorePercent": 0.8477400541305542,
+                    "UpperLeft": {
+                        "X": 146.0,
+                        "Y": 1480.0
+                    },
+                    "LowerRight": {
+                        "X": 245.0,
+                        "Y": 1514.0
+                    }
+                },
+                {
+                    "Text": "BTM LOG INTERVAL",
+                    "ScorePercent": 0.9965429902076721,
+                    "UpperLeft": {
+                        "X": 1126.0,
+                        "Y": 1480.0
+                    },
+                    "LowerRight": {
+                        "X": 1386.0,
+                        "Y": 1521.0
+                    }
+                },
+                {
+                    "Text": "2575",
+                    "ScorePercent": 0.9993164539337158,
+                    "UpperLeft": {
+                        "X": 1415.0,
+                        "Y": 1478.0
+                    },
+                    "LowerRight": {
+                        "X": 1490.0,
+                        "Y": 1512.0
+                    }
+                },
+                {
+                    "Text": "FIELD_",
+                    "ScorePercent": 0.9800763726234436,
+                    "UpperLeft": {
+                        "X": 148.0,
+                        "Y": 1533.0
+                    },
+                    "LowerRight": {
+                        "X": 240.0,
+                        "Y": 1567.0
+                    }
+                },
+                {
+                    "Text": "HOWARD GLASSCOCK",
+                    "ScorePercent": 0.974899411201477,
+                    "UpperLeft": {
+                        "X": 287.0,
+                        "Y": 1529.0
+                    },
+                    "LowerRight": {
+                        "X": 554.0,
+                        "Y": 1567.0
+                    }
+                },
+                {
+                    "Text": "FILE NO.",
+                    "ScorePercent": 0.9276123046875,
+                    "UpperLeft": {
+                        "X": 1121.0,
+                        "Y": 1536.0
+                    },
+                    "LowerRight": {
+                        "X": 1227.0,
+                        "Y": 1570.0
+                    }
+                },
+                {
+                    "Text": "20843",
+                    "ScorePercent": 0.9995406270027161,
+                    "UpperLeft": {
+                        "X": 1415.0,
+                        "Y": 1533.0
+                    },
+                    "LowerRight": {
+                        "X": 1502.0,
+                        "Y": 1567.0
+                    }
+                },
+                {
+                    "Text": "COUNTY HOWARD",
+                    "ScorePercent": 0.9779635667800903,
+                    "UpperLeft": {
+                        "X": 146.0,
+                        "Y": 1584.0
+                    },
+                    "LowerRight": {
+                        "X": 399.0,
+                        "Y": 1616.0
+                    }
+                },
+                {
+                    "Text": "TATE",
+                    "ScorePercent": 0.9963858127593994,
+                    "UpperLeft": {
+                        "X": 557.0,
+                        "Y": 1583.0
+                    },
+                    "LowerRight": {
+                        "X": 616.0,
+                        "Y": 1619.0
+                    }
+                },
+                {
+                    "Text": "TEXAS",
+                    "ScorePercent": 0.999549388885498,
+                    "UpperLeft": {
+                        "X": 676.0,
+                        "Y": 1589.0
+                    },
+                    "LowerRight": {
+                        "X": 757.0,
+                        "Y": 1613.0
+                    }
+                },
+                {
+                    "Text": "DATE",
+                    "ScorePercent": 0.995514988899231,
+                    "UpperLeft": {
+                        "X": 1126.0,
+                        "Y": 1592.0
+                    },
+                    "LowerRight": {
+                        "X": 1193.0,
+                        "Y": 1618.0
+                    }
+                },
+                {
+                    "Text": "3-26-68",
+                    "ScorePercent": 0.9923122525215149,
+                    "UpperLeft": {
+                        "X": 1404.0,
+                        "Y": 1584.0
+                    },
+                    "LowerRight": {
+                        "X": 1541.0,
+                        "Y": 1623.0
+                    }
+                }
+            ]
+        },
+        {
+            "Filename": "WL_TXHO176133_H.R. CLAY W.I. #2_D002033086_D002033086-tif-{0}_5.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "30",
+                    "ScorePercent": 0.9988014698028564,
+                    "UpperLeft": {
+                        "X": 611.0,
+                        "Y": 1299.0
+                    },
+                    "LowerRight": {
+                        "X": 631.0,
+                        "Y": 1333.0
+                    }
+                }
+            ]
+        },
+        {
+            "Filename": "WL_TXHO176133_H.R. CLAY W.I. #2_D002033086_D002033086-tif-{0}_0.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "non-log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "A",
+                    "ScorePercent": 0.7311515808105469,
+                    "UpperLeft": {
+                        "X": 960.0,
+                        "Y": 69.0
+                    },
+                    "LowerRight": {
+                        "X": 1011.0,
+                        "Y": 94.0
+                    }
+                },
+                {
+                    "Text": "DOQQ",
+                    "ScorePercent": 0.5837748646736145,
+                    "UpperLeft": {
+                        "X": 111.0,
+                        "Y": 129.0
+                    },
+                    "LowerRight": {
+                        "X": 515.0,
+                        "Y": 220.0
+                    }
+                },
+                {
+                    "Text": "Cummsia RayMeutron",
+                    "ScorePercent": 0.7771432995796204,
+                    "UpperLeft": {
+                        "X": 549.0,
+                        "Y": 129.0
+                    },
+                    "LowerRight": {
+                        "X": 1386.0,
+                        "Y": 220.0
+                    }
+                },
+                {
+                    "Text": "RTN",
+                    "ScorePercent": 0.5604061484336853,
+                    "UpperLeft": {
+                        "X": 1349.0,
+                        "Y": 121.0
+                    },
+                    "LowerRight": {
+                        "X": 1498.0,
+                        "Y": 208.0
+                    }
+                },
+                {
+                    "Text": "EPIT",
+                    "ScorePercent": 0.7338789701461792,
+                    "UpperLeft": {
+                        "X": 597.0,
+                        "Y": 230.0
+                    },
+                    "LowerRight": {
+                        "X": 723.0,
+                        "Y": 262.0
+                    }
+                },
+                {
+                    "Text": "HIR MAL NEUTRON",
+                    "ScorePercent": 0.9611545205116272,
+                    "UpperLeft": {
+                        "X": 817.0,
+                        "Y": 225.0
+                    },
+                    "LowerRight": {
+                        "X": 1461.0,
+                        "Y": 265.0
+                    }
+                },
+                {
+                    "Text": "776",
+                    "ScorePercent": 0.9937993884086609,
+                    "UpperLeft": {
+                        "X": 48.0,
+                        "Y": 304.0
+                    },
+                    "LowerRight": {
+                        "X": 73.0,
+                        "Y": 369.0
+                    }
+                },
+                {
+                    "Text": "LE NO.20843",
+                    "ScorePercent": 0.9875836968421936,
+                    "UpperLeft": {
+                        "X": 102.0,
+                        "Y": 304.0
+                    },
+                    "LowerRight": {
+                        "X": 326.0,
+                        "Y": 349.0
+                    }
+                },
+                {
+                    "Text": "COMPANY GUL",
+                    "ScorePercent": 0.9795177578926086,
+                    "UpperLeft": {
+                        "X": 399.0,
+                        "Y": 314.0
+                    },
+                    "LowerRight": {
+                        "X": 825.0,
+                        "Y": 359.0
+                    }
+                },
+                {
+                    "Text": "0LLCOPORATLON",
+                    "ScorePercent": 0.9105203151702881,
+                    "UpperLeft": {
+                        "X": 842.0,
+                        "Y": 327.0
+                    },
+                    "LowerRight": {
+                        "X": 1187.0,
+                        "Y": 356.0
+                    }
+                },
+                {
+                    "Text": "WELL",
+                    "ScorePercent": 0.9952404499053955,
+                    "UpperLeft": {
+                        "X": 404.0,
+                        "Y": 388.0
+                    },
+                    "LowerRight": {
+                        "X": 489.0,
+                        "Y": 423.0
+                    }
+                },
+                {
+                    "Text": "HE CLAYWINO.2",
+                    "ScorePercent": 0.8520234227180481,
+                    "UpperLeft": {
+                        "X": 651.0,
+                        "Y": 396.0
+                    },
+                    "LowerRight": {
+                        "X": 1226.0,
+                        "Y": 428.0
+                    }
+                },
+                {
+                    "Text": "FIELD",
+                    "ScorePercent": 0.9932826161384583,
+                    "UpperLeft": {
+                        "X": 399.0,
+                        "Y": 455.0
+                    },
+                    "LowerRight": {
+                        "X": 493.0,
+                        "Y": 490.0
+                    }
+                },
+                {
+                    "Text": "HOWEDGLASSCOCK",
+                    "ScorePercent": 0.9436212182044983,
+                    "UpperLeft": {
+                        "X": 648.0,
+                        "Y": 460.0
+                    },
+                    "LowerRight": {
+                        "X": 1093.0,
+                        "Y": 492.0
+                    }
+                },
+                {
+                    "Text": "COUNTY",
+                    "ScorePercent": 0.998451292514801,
+                    "UpperLeft": {
+                        "X": 402.0,
+                        "Y": 520.0
+                    },
+                    "LowerRight": {
+                        "X": 571.0,
+                        "Y": 552.0
+                    }
+                },
+                {
+                    "Text": "STATE",
+                    "ScorePercent": 0.9984270334243774,
+                    "UpperLeft": {
+                        "X": 1073.0,
+                        "Y": 525.0
+                    },
+                    "LowerRight": {
+                        "X": 1222.0,
+                        "Y": 554.0
+                    }
+                },
+                {
+                    "Text": "TEXAS",
+                    "ScorePercent": 0.9984381794929504,
+                    "UpperLeft": {
+                        "X": 1282.0,
+                        "Y": 527.0
+                    },
+                    "LowerRight": {
+                        "X": 1379.0,
+                        "Y": 552.0
+                    }
+                },
+                {
+                    "Text": "HOWARD",
+                    "ScorePercent": 0.9867982864379883,
+                    "UpperLeft": {
+                        "X": 655.0,
+                        "Y": 530.0
+                    },
+                    "LowerRight": {
+                        "X": 859.0,
+                        "Y": 562.0
+                    }
+                },
+                {
+                    "Text": "LOCATION",
+                    "ScorePercent": 0.9915887117385864,
+                    "UpperLeft": {
+                        "X": 402.0,
+                        "Y": 559.0
+                    },
+                    "LowerRight": {
+                        "X": 548.0,
+                        "Y": 594.0
+                    }
+                },
+                {
+                    "Text": "Other Service",
+                    "ScorePercent": 0.945766031742096,
+                    "UpperLeft": {
+                        "X": 1340.0,
+                        "Y": 564.0
+                    },
+                    "LowerRight": {
+                        "X": 1526.0,
+                        "Y": 589.0
+                    }
+                },
+                {
+                    "Text": "50|",
+                    "ScorePercent": 0.748421847820282,
+                    "UpperLeft": {
+                        "X": 657.0,
+                        "Y": 595.0
+                    },
+                    "LowerRight": {
+                        "X": 751.0,
+                        "Y": 610.0
+                    }
+                },
+                {
+                    "Text": "INL&",
+                    "ScorePercent": 0.6030725836753845,
+                    "UpperLeft": {
+                        "X": 813.0,
+                        "Y": 599.0
+                    },
+                    "LowerRight": {
+                        "X": 951.0,
+                        "Y": 616.0
+                    }
+                },
+                {
+                    "Text": "2310' FWL",
+                    "ScorePercent": 0.9085524678230286,
+                    "UpperLeft": {
+                        "X": 943.0,
+                        "Y": 594.0
+                    },
+                    "LowerRight": {
+                        "X": 1137.0,
+                        "Y": 619.0
+                    }
+                },
+                {
+                    "Text": "&NW SURVEY",
+                    "ScorePercent": 0.9550261497497559,
+                    "UpperLeft": {
+                        "X": 996.0,
+                        "Y": 624.0
+                    },
+                    "LowerRight": {
+                        "X": 1249.0,
+                        "Y": 653.0
+                    }
+                },
+                {
+                    "Text": "BLOCK",
+                    "ScorePercent": 0.9072989225387573,
+                    "UpperLeft": {
+                        "X": 663.0,
+                        "Y": 626.0
+                    },
+                    "LowerRight": {
+                        "X": 796.0,
+                        "Y": 651.0
+                    }
+                },
+                {
+                    "Text": "BHC-GGD",
+                    "ScorePercent": 0.9934687614440918,
+                    "UpperLeft": {
+                        "X": 1325.0,
+                        "Y": 619.0
+                    },
+                    "LowerRight": {
+                        "X": 1456.0,
+                        "Y": 653.0
+                    }
+                },
+                {
+                    "Text": "29",
+                    "ScorePercent": 0.9969014525413513,
+                    "UpperLeft": {
+                        "X": 863.0,
+                        "Y": 631.0
+                    },
+                    "LowerRight": {
+                        "X": 912.0,
+                        "Y": 648.0
+                    }
+                },
+                {
+                    "Text": "155",
+                    "ScorePercent": 0.8983826041221619,
+                    "UpperLeft": {
+                        "X": 496.0,
+                        "Y": 705.0
+                    },
+                    "LowerRight": {
+                        "X": 561.0,
+                        "Y": 730.0
+                    }
+                },
+                {
+                    "Text": "TWI",
+                    "ScorePercent": 0.9517539143562317,
+                    "UpperLeft": {
+                        "X": 631.0,
+                        "Y": 708.0
+                    },
+                    "LowerRight": {
+                        "X": 692.0,
+                        "Y": 732.0
+                    }
+                },
+                {
+                    "Text": "RGE_",
+                    "ScorePercent": 0.9503481388092041,
+                    "UpperLeft": {
+                        "X": 1038.0,
+                        "Y": 708.0
+                    },
+                    "LowerRight": {
+                        "X": 1127.0,
+                        "Y": 735.0
+                    }
+                },
+                {
+                    "Text": "5y988",
+                    "ScorePercent": 0.5925720930099487,
+                    "UpperLeft": {
+                        "X": 1371.0,
+                        "Y": 745.0
+                    },
+                    "LowerRight": {
+                        "X": 1509.0,
+                        "Y": 787.0
+                    }
+                },
+                {
+                    "Text": "GROUND LEVEL",
+                    "ScorePercent": 0.9839499592781067,
+                    "UpperLeft": {
+                        "X": 383.0,
+                        "Y": 762.0
+                    },
+                    "LowerRight": {
+                        "X": 607.0,
+                        "Y": 802.0
+                    }
+                },
+                {
+                    "Text": "ent Datum",
+                    "ScorePercent": 0.9913460612297058,
+                    "UpperLeft": {
+                        "X": 164.0,
+                        "Y": 772.0
+                    },
+                    "LowerRight": {
+                        "X": 315.0,
+                        "Y": 792.0
+                    }
+                },
+                {
+                    "Text": "2706-0",
+                    "ScorePercent": 0.8947531580924988,
+                    "UpperLeft": {
+                        "X": 1042.0,
+                        "Y": 772.0
+                    },
+                    "LowerRight": {
+                        "X": 1236.0,
+                        "Y": 804.0
+                    }
+                },
+                {
+                    "Text": "2714",
+                    "ScorePercent": 0.9512847065925598,
+                    "UpperLeft": {
+                        "X": 1384.0,
+                        "Y": 797.0
+                    },
+                    "LowerRight": {
+                        "X": 1490.0,
+                        "Y": 829.0
+                    }
+                },
+                {
+                    "Text": "asured from",
+                    "ScorePercent": 0.9779229760169983,
+                    "UpperLeft": {
+                        "X": 172.0,
+                        "Y": 807.0
+                    },
+                    "LowerRight": {
+                        "X": 314.0,
+                        "Y": 831.0
+                    }
+                },
+                {
+                    "Text": "KELLY",
+                    "ScorePercent": 0.9939354062080383,
+                    "UpperLeft": {
+                        "X": 385.0,
+                        "Y": 807.0
+                    },
+                    "LowerRight": {
+                        "X": 479.0,
+                        "Y": 824.0
+                    }
+                },
+                {
+                    "Text": "BUSHIN",
+                    "ScorePercent": 0.9969592094421387,
+                    "UpperLeft": {
+                        "X": 474.0,
+                        "Y": 807.0
+                    },
+                    "LowerRight": {
+                        "X": 605.0,
+                        "Y": 824.0
+                    }
+                },
+                {
+                    "Text": "Ft.Ab",
+                    "ScorePercent": 0.9910901784896851,
+                    "UpperLeft": {
+                        "X": 796.0,
+                        "Y": 807.0
+                    },
+                    "LowerRight": {
+                        "X": 924.0,
+                        "Y": 831.0
+                    }
+                },
+                {
+                    "Text": "Datur",
+                    "ScorePercent": 0.9098821878433228,
+                    "UpperLeft": {
+                        "X": 1175.0,
+                        "Y": 807.0
+                    },
+                    "LowerRight": {
+                        "X": 1273.0,
+                        "Y": 826.0
+                    }
+                },
+                {
+                    "Text": "Drilling Measured from KELLY BUSHINC",
+                    "ScorePercent": 0.9952771067619324,
+                    "UpperLeft": {
+                        "X": 92.0,
+                        "Y": 831.0
+                    },
+                    "LowerRight": {
+                        "X": 622.0,
+                        "Y": 868.0
+                    }
+                },
+                {
+                    "Text": "GL",
+                    "ScorePercent": 0.9973868131637573,
+                    "UpperLeft": {
+                        "X": 1304.0,
+                        "Y": 834.0
+                    },
+                    "LowerRight": {
+                        "X": 1369.0,
+                        "Y": 859.0
+                    }
+                },
+                {
+                    "Text": "2706.0",
+                    "ScorePercent": 0.9843471646308899,
+                    "UpperLeft": {
+                        "X": 1367.0,
+                        "Y": 831.0
+                    },
+                    "LowerRight": {
+                        "X": 1507.0,
+                        "Y": 864.0
+                    }
+                },
+                {
+                    "Text": "3-26-68",
+                    "ScorePercent": 0.9883893132209778,
+                    "UpperLeft": {
+                        "X": 455.0,
+                        "Y": 901.0
+                    },
+                    "LowerRight": {
+                        "X": 595.0,
+                        "Y": 933.0
+                    }
+                },
+                {
+                    "Text": "ONE",
+                    "ScorePercent": 0.9192227721214294,
+                    "UpperLeft": {
+                        "X": 447.0,
+                        "Y": 930.0
+                    },
+                    "LowerRight": {
+                        "X": 510.0,
+                        "Y": 965.0
+                    }
+                },
+                {
+                    "Text": "Log",
+                    "ScorePercent": 0.8845593929290771,
+                    "UpperLeft": {
+                        "X": 140.0,
+                        "Y": 975.0
+                    },
+                    "LowerRight": {
+                        "X": 191.0,
+                        "Y": 992.0
+                    }
+                },
+                {
+                    "Text": "GR/N",
+                    "ScorePercent": 0.8833911418914795,
+                    "UpperLeft": {
+                        "X": 450.0,
+                        "Y": 972.0
+                    },
+                    "LowerRight": {
+                        "X": 532.0,
+                        "Y": 1000.0
+                    }
+                },
+                {
+                    "Text": "th-Drilller",
+                    "ScorePercent": 0.938356339931488,
+                    "UpperLeft": {
+                        "X": 135.0,
+                        "Y": 1005.0
+                    },
+                    "LowerRight": {
+                        "X": 244.0,
+                        "Y": 1022.0
+                    }
+                },
+                {
+                    "Text": "25",
+                    "ScorePercent": 0.9980583190917969,
+                    "UpperLeft": {
+                        "X": 457.0,
+                        "Y": 1005.0
+                    },
+                    "LowerRight": {
+                        "X": 493.0,
+                        "Y": 1022.0
+                    }
+                },
+                {
+                    "Text": "2586",
+                    "ScorePercent": 0.9992179274559021,
+                    "UpperLeft": {
+                        "X": 452.0,
+                        "Y": 1026.0
+                    },
+                    "LowerRight": {
+                        "X": 530.0,
+                        "Y": 1067.0
+                    }
+                },
+                {
+                    "Text": "tom Logged lnterval",
+                    "ScorePercent": 0.9476736783981323,
+                    "UpperLeft": {
+                        "X": 128.0,
+                        "Y": 1069.0
+                    },
+                    "LowerRight": {
+                        "X": 372.0,
+                        "Y": 1094.0
+                    }
+                },
+                {
+                    "Text": "2575",
+                    "ScorePercent": 0.9988256096839905,
+                    "UpperLeft": {
+                        "X": 457.0,
+                        "Y": 1066.0
+                    },
+                    "LowerRight": {
+                        "X": 532.0,
+                        "Y": 1094.0
+                    }
+                },
+                {
+                    "Text": "SURFACE",
+                    "ScorePercent": 0.9901712536811829,
+                    "UpperLeft": {
+                        "X": 460.0,
+                        "Y": 1101.0
+                    },
+                    "LowerRight": {
+                        "X": 585.0,
+                        "Y": 1126.0
+                    }
+                },
+                {
+                    "Text": "GEL-CHEMICAL",
+                    "ScorePercent": 0.9933261871337891,
+                    "UpperLeft": {
+                        "X": 453.0,
+                        "Y": 1121.0
+                    },
+                    "LowerRight": {
+                        "X": 686.0,
+                        "Y": 1168.0
+                    }
+                },
+                {
+                    "Text": "in Hole",
+                    "ScorePercent": 0.9764311909675598,
+                    "UpperLeft": {
+                        "X": 215.0,
+                        "Y": 1133.0
+                    },
+                    "LowerRight": {
+                        "X": 312.0,
+                        "Y": 1158.0
+                    }
+                },
+                {
+                    "Text": "Salinity Ppm Cl",
+                    "ScorePercent": 0.9085589051246643,
+                    "UpperLeft": {
+                        "X": 104.0,
+                        "Y": 1168.0
+                    },
+                    "LowerRight": {
+                        "X": 307.0,
+                        "Y": 1193.0
+                    }
+                },
+                {
+                    "Text": "28.000",
+                    "ScorePercent": 0.9430521130561829,
+                    "UpperLeft": {
+                        "X": 457.0,
+                        "Y": 1168.0
+                    },
+                    "LowerRight": {
+                        "X": 571.0,
+                        "Y": 1193.0
+                    }
+                },
+                {
+                    "Text": "ensity Lb./Ga",
+                    "ScorePercent": 0.9417626857757568,
+                    "UpperLeft": {
+                        "X": 133.0,
+                        "Y": 1200.0
+                    },
+                    "LowerRight": {
+                        "X": 305.0,
+                        "Y": 1225.0
+                    }
+                },
+                {
+                    "Text": "FUI",
+                    "ScorePercent": 0.8558354377746582,
+                    "UpperLeft": {
+                        "X": 460.0,
+                        "Y": 1240.0
+                    },
+                    "LowerRight": {
+                        "X": 503.0,
+                        "Y": 1259.0
+                    }
+                },
+                {
+                    "Text": "Rec.Temp.Deg.F",
+                    "ScorePercent": 0.9775048494338989,
+                    "UpperLeft": {
+                        "X": 157.0,
+                        "Y": 1267.0
+                    },
+                    "LowerRight": {
+                        "X": 372.0,
+                        "Y": 1292.0
+                    }
+                },
+                {
+                    "Text": "9",
+                    "ScorePercent": 0.9978970289230347,
+                    "UpperLeft": {
+                        "X": 455.0,
+                        "Y": 1272.0
+                    },
+                    "LowerRight": {
+                        "X": 484.0,
+                        "Y": 1289.0
+                    }
+                },
+                {
+                    "Text": "2_HOURS",
+                    "ScorePercent": 0.9171642661094666,
+                    "UpperLeft": {
+                        "X": 467.0,
+                        "Y": 1299.0
+                    },
+                    "LowerRight": {
+                        "X": 585.0,
+                        "Y": 1324.0
+                    }
+                },
+                {
+                    "Text": "B.AYRES",
+                    "ScorePercent": 0.9740086793899536,
+                    "UpperLeft": {
+                        "X": 452.0,
+                        "Y": 1331.0
+                    },
+                    "LowerRight": {
+                        "X": 673.0,
+                        "Y": 1358.0
+                    }
+                },
+                {
+                    "Text": ".KEENE",
+                    "ScorePercent": 0.9298524856567383,
+                    "UpperLeft": {
+                        "X": 489.0,
+                        "Y": 1371.0
+                    },
+                    "LowerRight": {
+                        "X": 617.0,
+                        "Y": 1388.0
+                    }
+                },
+                {
+                    "Text": "Bore Hole",
+                    "ScorePercent": 0.9324885606765747,
+                    "UpperLeft": {
+                        "X": 300.0,
+                        "Y": 1425.0
+                    },
+                    "LowerRight": {
+                        "X": 421.0,
+                        "Y": 1457.0
+                    }
+                },
+                {
+                    "Text": "From",
+                    "ScorePercent": 0.9925743937492371,
+                    "UpperLeft": {
+                        "X": 324.0,
+                        "Y": 1470.0
+                    },
+                    "LowerRight": {
+                        "X": 406.0,
+                        "Y": 1487.0
+                    }
+                },
+                {
+                    "Text": "Size",
+                    "ScorePercent": 0.9985970258712769,
+                    "UpperLeft": {
+                        "X": 716.0,
+                        "Y": 1467.0
+                    },
+                    "LowerRight": {
+                        "X": 789.0,
+                        "Y": 1492.0
+                    }
+                },
+                {
+                    "Text": "77/8",
+                    "ScorePercent": 0.9085037708282471,
+                    "UpperLeft": {
+                        "X": 184.0,
+                        "Y": 1497.0
+                    },
+                    "LowerRight": {
+                        "X": 278.0,
+                        "Y": 1524.0
+                    }
+                },
+                {
+                    "Text": "SURFACE",
+                    "ScorePercent": 0.9842594861984253,
+                    "UpperLeft": {
+                        "X": 281.0,
+                        "Y": 1495.0
+                    },
+                    "LowerRight": {
+                        "X": 426.0,
+                        "Y": 1527.0
+                    }
+                },
+                {
+                    "Text": "2585",
+                    "ScorePercent": 0.9993782043457031,
+                    "UpperLeft": {
+                        "X": 535.0,
+                        "Y": 1497.0
+                    },
+                    "LowerRight": {
+                        "X": 605.0,
+                        "Y": 1524.0
+                    }
+                },
+                {
+                    "Text": "12",
+                    "ScorePercent": 0.6215775012969971,
+                    "UpperLeft": {
+                        "X": 2182.0,
+                        "Y": 1615.0
+                    },
+                    "LowerRight": {
+                        "X": 2305.0,
+                        "Y": 1656.0
+                    }
+                }
+            ]
+        },
+        {
+            "Filename": "WL_TXHO176133_H.R. CLAY W.I. #2_D002033086_D002033086-tif-{0}_1.jpg",
+            "Scores": [
+                {
+                    "Model": "VGG-16",
+                    "ModelVersion": 4,
+                    "Percent": 100.0,
+                    "ScoredAs": "log"
+                }
+            ],
+            "ExtractedTexts": [
+                {
+                    "Text": "emarks",
+                    "ScorePercent": 0.8936991095542908,
+                    "UpperLeft": {
+                        "X": 92.0,
+                        "Y": 150.0
+                    },
+                    "LowerRight": {
+                        "X": 163.0,
+                        "Y": 174.0
+                    }
+                },
+                {
+                    "Text": "Reference Literature:",
+                    "ScorePercent": 0.9692007899284363,
+                    "UpperLeft": {
+                        "X": 1168.0,
+                        "Y": 164.0
+                    },
+                    "LowerRight": {
+                        "X": 1413.0,
+                        "Y": 201.0
+                    }
+                },
+                {
+                    "Text": "NEUTRON SCALE CHANGE AT 1200",
+                    "ScorePercent": 0.9694316983222961,
+                    "UpperLeft": {
+                        "X": 211.0,
+                        "Y": 181.0
+                    },
+                    "LowerRight": {
+                        "X": 700.0,
+                        "Y": 228.0
+                    }
+                },
+                {
+                    "Text": "JOB NO. 20843",
+                    "ScorePercent": 0.9639846086502075,
+                    "UpperLeft": {
+                        "X": 1174.0,
+                        "Y": 203.0
+                    },
+                    "LowerRight": {
+                        "X": 1390.0,
+                        "Y": 252.0
+                    }
+                },
+                {
+                    "Text": "Canma Ray",
+                    "ScorePercent": 0.8969632387161255,
+                    "UpperLeft": {
+                        "X": 137.0,
+                        "Y": 424.0
+                    },
+                    "LowerRight": {
+                        "X": 471.0,
+                        "Y": 551.0
+                    }
+                },
+                {
+                    "Text": "Hutron",
+                    "ScorePercent": 0.8039500117301941,
+                    "UpperLeft": {
+                        "X": 1082.0,
+                        "Y": 434.0
+                    },
+                    "LowerRight": {
+                        "X": 1294.0,
+                        "Y": 555.0
+                    }
+                },
+                {
+                    "Text": "DEPTH",
+                    "ScorePercent": 0.9950790405273438,
+                    "UpperLeft": {
+                        "X": 577.0,
+                        "Y": 481.0
+                    },
+                    "LowerRight": {
+                        "X": 678.0,
+                        "Y": 522.0
+                    }
+                },
+                {
+                    "Text": "API GAMMA RAY UNITS",
+                    "ScorePercent": 0.9941115379333496,
+                    "UpperLeft": {
+                        "X": 114.0,
+                        "Y": 578.0
+                    },
+                    "LowerRight": {
+                        "X": 487.0,
+                        "Y": 626.0
+                    }
+                },
+                {
+                    "Text": "API NEUTRON UNITS",
+                    "ScorePercent": 0.9872455596923828,
+                    "UpperLeft": {
+                        "X": 1035.0,
+                        "Y": 590.0
+                    },
+                    "LowerRight": {
+                        "X": 1345.0,
+                        "Y": 639.0
+                    }
+                },
+                {
+                    "Text": "e",
+                    "ScorePercent": 0.9999314546585083,
+                    "UpperLeft": {
+                        "X": 1522.0,
+                        "Y": 790.0
+                    },
+                    "LowerRight": {
+                        "X": 1534.0,
+                        "Y": 821.0
+                    }
+                },
+                {
+                    "Text": "1",
+                    "ScorePercent": 0.7796432971954346,
+                    "UpperLeft": {
+                        "X": 490.0,
+                        "Y": 982.0
+                    },
+                    "LowerRight": {
+                        "X": 517.0,
+                        "Y": 999.0
+                    }
+                },
+                {
+                    "Text": "1620",
+                    "ScorePercent": 0.9062321782112122,
+                    "UpperLeft": {
+                        "X": 1591.0,
+                        "Y": 989.0
+                    },
+                    "LowerRight": {
+                        "X": 1668.0,
+                        "Y": 1023.0
+                    }
+                }
+            ]
+        }
+    ]
+}
